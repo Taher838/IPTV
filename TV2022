@@ -1,612 +1,539 @@
 #EXTM3U
-#EXTINF:-1 group-title="TAHER TV NOV",Btv World
+
+#EXTINF:-1 group-title="BANGLADESH",Btv World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",JOMUNA
+#EXTINF:-1 group-title="BANGLADESH",JOMUNA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CHANNEL 24
+#EXTINF:-1 group-title="BANGLADESH",CHANNEL 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",NEWS 24
+#EXTINF:-1 group-title="BANGLADESH",NEWS 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",DBC
+#EXTINF:-1 group-title="BANGLADESH",DBC
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Independent
+#EXTINF:-1 group-title="BANGLADESH",DBC
+http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH",Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SOMOY TV
+#EXTINF:-1 group-title="BANGLADESH",SOMOY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",GAZI
+#EXTINF:-1 group-title="BANGLADESH",GAZI
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",ATN NEWS
+#EXTINF:-1 group-title="BANGLADESH",GAZI
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/103.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH",Ekattor TV
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/41.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH",ATN NEWS
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",BANGA VISION
+#EXTINF:-1 group-title="BANGLADESH",BANGA VISION
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",ATN BANGLA
+#EXTINF:-1 group-title="BANGLADESH",ATN BANGLA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CHANNAL I
+#EXTINF:-1 group-title="BANGLADESH",CHANNAL I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MAASRANGA
+#EXTINF:-1 group-title="BANGLADESH",MAASRANGA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CHANNEL 9
+#EXTINF:-1 group-title="BANGLADESH",MAASRANGA
+http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH",CHANNEL 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",71 TV
-https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",RTV
+#EXTINF:-1 group-title="BANGLADESH",RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Deepto TV HD
+#EXTINF:-1 group-title="BANGLADESH",Deepto TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Ekusey TV
+#EXTINF:-1 group-title="BANGLADESH",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",NTV BD
+#EXTINF:-1 group-title="BANGLADESH",NTV BD
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",My TV
+#EXTINF:-1 group-title="BANGLADESH",My TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SA TV
+#EXTINF:-1 group-title="BANGLADESH",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Bangla TV
+#EXTINF:-1 group-title="BANGLADESH",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Bijoy TV
+#EXTINF:-1 group-title="BANGLADESH",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",BOISHAKHI
+#EXTINF:-1 group-title="BANGLADESH",BOISHAKHI
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Boishakhi TV Plus
+#EXTINF:-1 group-title="BANGLADESH",Boishakhi TV Plus
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Ananda TV
+#EXTINF:-1 group-title="BANGLADESH",Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Mohona
+#EXTINF:-1 group-title="BANGLADESH",Mohona
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Zee Bangla Cinema
-http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA",Star Jalsha Bulbul1
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/26.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Colos Bangla 1
-http://65.2.4.240/jioo.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA",Star Jalsha Bulbul2
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/26
 
-#EXTINF:-1 group-title="TAHER TV NOV",COLORS BANLGA EBOX
+#EXTINF:-1 group-title="INDIAN BANGLA",Star Jalsha HD
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/323.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",Zee Bangla
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/77.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",Zee Bangla
+http://103.159.4.38:5868/IN-BANGLA-4/index.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",Star Jalsha movies1
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",Star Jalsha movies2
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/155.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA",COLORS BANLGA EBOX
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Art
-http://65.2.4.240/jioo.php?c=Sony_aath&q=800&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Aakash Aath
-http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Enter 10 Bangla
+#EXTINF:-1 group-title="INDIAN BANGLA",Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SANGEET BANGLA
+#EXTINF:-1 group-title="MISIC",SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",GANABANGLA
+#EXTINF:-1 group-title="MISIC",GANABANGLA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",RTV Music
+#EXTINF:-1 group-title="MISIC",RTV Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",ATN Music
+#EXTINF:-1 group-title="MISIC",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",9XM 1
+#EXTINF:-1 group-title="MISIC",9XM 1
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",9XM 2
+#EXTINF:-1 group-title="MISIC",9XM 2
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",9X JALWA
+#EXTINF:-1 group-title="MISIC",9X JALWA
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",9X Jhakaas
+#EXTINF:-1 group-title="MISIC",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MUSIC INDIA 1
+#EXTINF:-1 group-title="MISIC",MUSIC INDIA 1
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Music India 2
+#EXTINF:-1 group-title="MISIC",Music India 2
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",PEN
+#EXTINF:-1 group-title="MISIC",PEN
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Showbox
+#EXTINF:-1 group-title="MISIC",Showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Mastiii
-http://65.2.4.240/jioo.php?c=Mastiii&q=1200&e=.m3u8
+#EXTINF:-1 group-title="MISIC",Hungama Dil se
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/303.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",E 24
-http://65.2.4.240/jioo.php?c=E_24&q=800&e=.m3u8
+#EXTINF:-1 group-title="MISIC",Hungama Kadak
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/304.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MTV Beats HD
-http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="MISIC",Hungama Pop
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/305.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MTV
-http://65.2.4.240/jioo.php?c=MTV&q=800&e=.m3u8
+#EXTINF:-1 group-title="MISIC",ZEE5 MUSIC
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-301
 
-#EXTINF:-1 group-title="TAHER TV NOV",MTV HD Plus
-http://65.2.4.240/jioo.php?c=MTV_HD_Plus&q=800&e=.m3u8
+#EXTINF:-1 group-title="MISIC",ZEE5 ORIGINALS
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-299
 
-#EXTINF:-1 group-title="TAHER TV NOV",ARISTO CRICKET
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52853.ts
+#EXTINF:-1 group-title="STAR SPORTS",Star Sports 1
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/43.m3u8
 
+#EXTINF:-1 group-title="STAR SPORTS",Star Sports 1B
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Willow HD
-http://nicefly.xyz:80/h21041003/651032140/246246
+#EXTINF:-1 group-title="STAR SPORTS",Star Sports 1B
+https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Ten 1 HD JIO
-http://65.2.4.240/jioo.php?c=Ten_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Ten 2 HD JIO
-http://65.2.4.240/jioo.php?c=Ten2_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Ten 3 HD JIO
-http://65.2.4.240/jioo.php?c=Ten3_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Six HD JIO
-http://65.2.4.240/jioo.php?c=Six_HD&q=800&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Ten 1 HD
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",SONY SIX HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",SONY TEN 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",SONY TEN 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",STAR SPORTS SELECT 2
+#EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS SELECT 2
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SELECT 1 EBOX
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 1 EBOX
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SELECT 2 EBOX
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 2 EBOX
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SELECT 1 
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 1 BD
+http://43.230.123.21:8080/live/starsportsselect-1.m3u8
+
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 2 BD
+http://43.230.123.21:8080/live/starsportsselect-2.m3u8
+
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 1 ts
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/448.ts
 
-#EXTINF:-1 group-title="TAHER TV NOV",SELECT 2 
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 2 ts
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/447.ts
 
-#EXTINF:-1 group-title="TAHER TV NOV",WWE
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 1 opplex
+http://opplex.tv:8080/live/123/123/109993.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Jio Football HD
-http://65.2.4.240/jioo.php?c=Jio_Football&q=1200&e=.m3u8
+#EXTINF:-1 group-title="STAR SPORTS",SELECT 2 opplex
+http://opplex.tv:8080/live/123/123/109994.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Jio Football 1 HD
-http://65.2.4.240/jioo.php?c=Jio_Football_1&q=1200&e=.m3u8
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 1
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/144.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Jio Football 2 HD
-http://65.2.4.240/jioo.php?c=Jio_Football_2&q=1200&e=.m3u8
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 2
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/134.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Jio Football 3 HD
-http://65.2.4.240/jioo.php?c=Jio_Football_3&q=1200&e=.m3u8
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/126.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MATCH SPORT RUSSIA
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/65.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",Ten Sports
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 1 BD
+http://43.230.123.21:8080/live/sonyten-1.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 2 BD
+http://43.230.123.21:8080/live/sonyten-2.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3 BD
+http://43.230.123.21:8080/live/sonyten-3.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",SONY SIX BD
+http://43.230.123.21:8080/live/sonysix.m3u8
+
+#EXTINF:-1 group-title="SONY SPORTS",TEN SPORTS BD
+http://43.230.123.21:8080/live/ten-sports.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",T Sports
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS",T Sports Ebox
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 group-title="SPORTS",T Sports
+http://43.230.123.21:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Bein Premium 1
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49685.ts
+
+#EXTINF:-1 group-title="SPORTS",Bein Premium 2
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49686.ts
+
+#EXTINF:-1 group-title="SPORTS",Bein sport max
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54193.ts
+
+#EXTINF:-1 group-title="SPORTS",BEIN 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/400.m3u8
+
+#EXTINF:-1 group-title="SPORTS",BEIN 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/401.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MOLA 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MOLA 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/403.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONS 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/404.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONS 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/405.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONS 3
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/406.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONS 4
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/501.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH SPORT RUSSIA
 https://185-107-80-245.livesports24.online/ooomatch.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MATCH 2 SPORT RUSSIA
+#EXTINF:-1 group-title="SPORTS",MATCH 2 SPORT RUSSIA
 https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MATCH 3 SPORT RUSSIA
+#EXTINF:-1 group-title="SPORTS",MATCH 3 SPORT RUSSIA
 https://185-107-80-245.livesports24.online/rumatchf3.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MEGOGO SPORT RUSSIA
-https://185-106-121-77.livesports24.online/megogofootball1.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",DOHUK SPORT KURD
-http://88.198.32.36:1935/live/Duhok-Sports-HD/playlist.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",RING SPORT KURD
+#EXTINF:-1 group-title="SPORTS",RING SPORT KURD
 http://185.234.111.76/bar7667/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS",NTR Sports
+http://185.234.111.76/bar7638/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Zee Classic
-http://65.2.4.240/jioo.php?c=Zee_Classic&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="SPORTS",MMN SPORT HD
+http://185.234.111.76/bar7642/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Zee Cinema HD
-http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="SPORTS",SADA Sports HD
+http://185.234.111.76/bar7653/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS",ASO SPORT HD
+http://185.234.111.76/bar7671/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",And Pictures HD
-http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="SPORTS",K+ Sport 1
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS",K+ Sport 2
+http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Sony MAX2
-http://65.2.4.240/jioo.php?c=Sony_MAX2&q=800&e=.m3u8
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS",ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Max HD
-http://65.2.4.240/jioo.php?c=Sony_Max_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",ZEE CINEMA
+#EXTINF:-1 group-title="HINDI MOVIES",ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SONY MAX 1
+#EXTINF:-1 group-title="HINDI MOVIES",SONY MAX 1
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SONY MAX 2
+#EXTINF:-1 group-title="HINDI MOVIES",SONY MAX
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/147.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES",SONY MAX 2
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",ZEE action 2
+#EXTINF:-1 group-title="HINDI MOVIES",ZEE action 2
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Colors Cineplex HD 1
-https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Colors Cineplex HD
-http://65.2.4.240/jioo.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",DHINCHAAK 2
+#EXTINF:-1 group-title="HINDI MOVIES",DHINCHAAK 2
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Rasi Movies
-http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",And Tv HD
-https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Star Plus HD 3
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 group-title="TAHER TV NOV",SONY HD 1
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Sab 1
-https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Colors HD 2
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 group-title="TAHER TV NOV",&EXPLOR HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65682
-
-
-#EXTINF:-1 group-title="TAHER TV NOV",Colors Infinity HD
-http://65.2.4.240/jioo.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Zee TV
-http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Zee TV HD 3
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-
-#EXTINF:-1 group-title="TAHER TV NOV",UTV 2
-https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Bflix Movies
+#EXTINF:-1 group-title="HINDI MOVIES",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Megapix BRAZIL
-http://189.91.128.146:4444/udp/227.10.20.89:1234
+#EXTINF:-1 group-title="HINDI MOVIES",Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",AMC Presents (1080p)
+#EXTINF:-1 group-title="HINDI MOVIES",&Picture HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
+
+#EXTINF:-1 group-title="HINDI MOVIES",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1  group-title="HINDI MOVIES",MBC Bollywood
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/493.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI",Star Plus HD 3
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1group-title="INDIAN HINDI",SONY HD 1
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIAN HINDI",Colors HD 2
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 group-title="INDIAN HINDI",Zee TV HD 3
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",&flix
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/179.m3u8
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",&Privehd
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/180.m3u8
+
+#EXTINF:-1 group-title="ENHLISH MOVIES",AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Hi Dost!
-http://65.2.4.240/jioo.php?c=Hi_Dost&q=1200&e=.m3u8
+#EXTINF:-1 group-title="ENHLISH MOVIES",SONY PIX
+http://43.230.123.21:8080/live/sony-pix.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SONY PIX JIO
-http://65.2.4.240/jioo.php?c=Sony_Pix_HD&q=1200&e=.m3u8
+#EXTINF:-1 group-title="ENHLISH MOVIES",SONY PIX
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/314.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Sony Pix
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65672
-
-#EXTINF:-1 group-title="TAHER TV NOV",STAR MOVIES HD 1
+#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",STAR MOVIES HD 1
+#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD 1
 http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="ENHLISH MOVIES",STAR MOVIES HD
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/90.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Star Movies HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62526
-
-#EXTINF:-1 group-title="TAHER TV NOV",FLEX HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Movies HD
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv
-
-#EXTINF:-1 group-title="TAHER TV NOV",Movies HD
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.xs
-
-#EXTINF:-1 group-title="TAHER TV NOV",MOVIES 1
-http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-
-#EXTINF:-1 group-title="TAHER TV NOV",MOVIES 2
-http://121.51.249.99/txdirect.hls.huya.com/src/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.m3u8?
-
-#EXTINF:-1 group-title="TAHER TV NOV",MOVIES 3
-http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?
-
-#EXTINF:-1 group-title="TAHER TV NOV",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",HBO web
-https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171610
-
-#EXTINF:-1 group-title="TAHER TV NOV",HBO
+#EXTINF:-1 group-title="ENHLISH MOVIES",HBO
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/416.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",,HBO  HITS
+#EXTINF:-1 group-title="ENHLISH MOVIES",HBO  HITS
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/415.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",HBO SIGNATURE
+#EXTINF:-1 group-title="ENHLISH MOVIES",HBO SIGNATURE
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/414.m3u8
 
-
-#EXTINF:-1 group-title="TAHER TV NOV",GALAXY
+#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/412.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",GALAXY PREMIUM
+#EXTINF:-1 group-title="ENHLISH MOVIES",GALAXY PREMIUM
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/413.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Bein Premear ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/17.ts
+#EXTINF:-1 group-title="ENHLISH MOVIES",VIU6
+https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Bein Action ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/18.ts
+#EXTINF:-1 group-title="ENHLISH MOVIES",Box Hits
+https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_1.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Bein Drama ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/19.ts
+#EXTINF:-1 group-title="ENHLISH MOVIES",,Box Hits
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Movies HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80183
+#EXTINF:-1 group-title="ENHLISH MOVIES",In The Box
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=inthebox
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Movies HD2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80182
+#EXTINF:-1 group-title="IPTV MOVIES",FLEX HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Movies HD3
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80181
+#EXTINF:-1 group-title="IPTV MOVIES",Enhlish HD 1
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Movies HD4
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80180
+#EXTINF:-1 group-title="IPTV MOVIES",Enhlish HD 2
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000.xs
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Drama HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80179
+#EXTINF:-1 group-title="IPTV MOVIES",Movies 1
+http://223.110.236.16/wh7f454c46tw2973675684_728373224/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Series HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80178
+#EXTINF:-1 group-title="IPTV MOVIES",MOVIES 2
+http://121.51.249.99/txdirect.hls.huya.com/src/1099531752774-1099531752774-86436208242065408-2199063629004-10057-A-0-1.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",beIN Series HD2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80177
+#EXTINF:-1 group-title="IPTV MOVIES",MOVIES 3
+http://111.6.244.41/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?
 
+#EXTINF:-1 group-title="IPTV MOVIES",Chinise HD 1
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 
-#EXTINF:-1 group-title="TAHER TV NOV",OSN Movies First HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
+#EXTINF:-1 group-title="IPTV MOVIES",Chinise HD 2
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",OSN Movies First +2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80226
+#EXTINF:-1 group-title="IPTV MOVIES",Mass Cinema
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",OSN Movies Disney HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80225
+#EXTINF:-1 group-title="IPTV MOVIES",Betta (Europe and America)
+http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 
+#EXTINF:-1 group-title="IPTV MOVIES",Hollywood Mix
+http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 
-#EXTINF:-1 group-title="TAHER TV NOV",Movies 4K ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/55.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Ultra Blu-ray
+http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",Movies SD ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/243.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Chinese Movies sub
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 
-#EXTINF:-1 group-title="TAHER TV NOV",Movies SD ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/244.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Fighting Fish 1
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",AMC ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/272.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Fighting Fish 2
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv
 
+#EXTINF:-1 group-title="IPTV MOVIES",Chinese Movies sub
+http://dyscdnali1.douyucdn.cn/live/9220456rWD2OR7uF.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",MBC2 ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/315.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Chinese new Movies sub
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv
 
-#EXTINF:-1 group-title="TAHER TV NOV",MBC 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62476
+#EXTINF:-1 group-title="IPTV MOVIES",Latus Macau
+http://nettvpro.live/hls/lotustv.php
 
-#EXTINF:-1 group-title="TAHER TV NOV",MBC MAX HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80264
+#EXTINF:-1 group-title="IPTV MOVIES",MIGU Daily Sci-Fi Movie
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",MBC max ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/323.ts
+#EXTINF:-1 group-title="IPTV MOVIES",Meiya Movie
+http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 
-#EXTINF:-1 group-title="TAHER TV NOV",MBC VARIETY HEVC
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
-
-
-
-#EXTINF:-1 group-title="TAHER TV NOV",OSN BOX OFFICE 1
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62524
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="TAHER TV NOV",zee cafe hd ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/433.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",hbo ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/652.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",hbo ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/653.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",hbo ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/886.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sky Sports main event ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/791.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sky Sports news ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/791.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",Premer Sports 1 ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/793.ts
-
-#EXTINF:-1 group-title="TAHER TV NOV",fox life ts
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/887.ts
-
-
-#EXTINF:-1 group-title="TAHER TV NOV",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Flicks of Fury
+#EXTINF:-1 group-title="OTHER MOVIES",Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="TAHER TV NOV",Hi-Yah! (XUMO)
+#EXTINF:-1 group-title="OTHER MOVIES",Hi-Yah! (XUMO)
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 group-title="OTHER MOVIES",Hong Kong opens TV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Celestial Classic
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="OTHER MOVIES",tvN
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",KBS
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 group-title="OTHER MOVIES",tvN Movies
+http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Fox Life
+#EXTINF:-1 group-title="ENTERTAIMENT",Fox Life
 http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",STAR WORLD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",52 FOOD
+#EXTINF:-1 group-title="ENTERTAIMENT",52 FOOD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",BBC FOOD
+#EXTINF:-1 group-title="ENTERTAIMENT",BBC FOOD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="TAHER TV NOV",Food TV
+#EXTINF:-1 group-title="ENTERTAIMENT",Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=ec670265-365a-496a-bdaf-f7b5a4b79f64&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="TAHER TV NOV",Nick Bangla
-http://65.2.4.240/jioo.php?c=Nick_Bangla&q=800&e=.m3u8
+#EXTINF:-1 group-title="ENTERTAIMENT",FOOD FOOD HD
+http://14.199.164.20:4001/play/a0qx/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Nick Hindi
-http://65.2.4.240/jioo.php?c=Nick_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",CN HD+ English
-http://65.2.4.240/jioo.php?c=CN_HD_English&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Cartoon Network Hindi
-http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Pogo Hindi
-http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sonic Bangla
-http://65.2.4.240/jioo.php?c=Sonic_Bangla&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Nick Junior
-http://65.2.4.240/jioo.php?c=Nick_Junior&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",India Science
-http://65.2.4.240/jioo.php?c=India_Science&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",History TV18 SD
-http://65.2.4.240/jioo.php?c=History_TV18_SD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",History TV18 HD
-http://65.2.4.240/jioo.php?c=History_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",History TV18 HD Hindi
-http://65.2.4.240/jioo.php?c=History_18_Hindi&q=1200&e=.m3u8
-
-
-
-#EXTINF:-1 group-title="TAHER TV NOV",INWILD
+#EXTINF:-1 group-title="DOCUMENTARY",INWILD
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Travel XP HD Hindi
-http://65.2.4.240/jioo.php?c=Travel_XP&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Food Food
-http://65.2.4.240/jioo.php?c=Food_Food&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Animal Planet Hindi
-http://65.2.4.240/jioo.php?c=Animal_Planet_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Discovery Channel Hindi
-http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",TLC Hindi
-http://65.2.4.240/jioo.php?c=TLC_Hindi&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",Sony BBC Earth HD
-http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",AL JAZEERA HD 1
+#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 1
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",AL JAZEERA HD 2
+#EXTINF:-1 group-title="NEWS",AL JAZEERA HD 2
 https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-#EXTINF:-1 group-title="TAHER TV NOV",BBC
 
+#EXTINF:-1 group-title="NEWS",BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CNN International HD
+#EXTINF:-1 group-title="NEWS",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",NBC
+#EXTINF:-1 group-title="NEWS",NBC
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",TRT NEWS
+#EXTINF:-1 group-title="NEWS",TRT NEWS
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CNBC
+#EXTINF:-1 group-title="NEWS",CNBC
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",18 BANGLA
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-
-#EXTINF:-1 group-title="TAHER TV NOV",ABP Ananda
+#EXTINF:-1 group-title="NEWS",ABP Ananda
 https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",NDTV 24x7
+#EXTINF:-1 group-title="NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",Times Now HD
+#EXTINF:-1 group-title="NEWS",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",CNA
+#EXTINF:-1 group-title="NEWS",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 group-title="TAHER TV NOV",SKY NEWS
+#EXTINF:-1 group-title="NEWS",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
