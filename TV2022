@@ -56,3 +56,17 @@ http://193.33.88.172/football1_hd/index.m3u8
 http://193.33.88.172/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Sports",Math 3HD
 http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="Sports",T Sports
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#EXTINF:-1 group-title="Sports",T Sports HD (4)
+http://103.70.140.27:8080/hls/tsports.m3u8?token=thenayeemparvez
+#EXTINF:-1 group-title="Sports",GAZI
+http://103.161.2.142/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="Sports",PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",Astro Cricket
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170835
+#EXTINF:-1 group-title="Sports",FOX501
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2180746
+#EXTINF:-1 group-title="Sports",Super Sports Cricket
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1166889
