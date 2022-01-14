@@ -1,84 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Astro SuperSport
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang299&password=penang299&stream=6708
-#EXTINF:-1 group-title="Sports",Astro SuperSport 2
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6710
-#EXTINF:-1 group-title="Sports",Astro SuperSport 3
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6711
-#EXTINF:-1 group-title="Sports",Astro SuperSport 4
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6712
-#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 1ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 2ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 3ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1 group-title="Sports",RING HD
-http://94.236.145.205:8000/play/a01a
-#EXTINF:-1 group-title="Sports",Diema Sport 2 HD
-http://94.236.145.205:8000/play/a01b
-#EXTINF:-1 group-title="Sports",Diema Sport 3 HD
-http://94.236.145.205:8000/play/a01z
-#EXTINF:-1 group-title="Sports",Diema Sport HD
-http://94.236.145.205:8000/play/a00s
-#EXTINF:-1 group-title="Sports",🇺🇦️ Setanta Sports
-http://95.67.12.179:9001
-#EXTINF:-1 group-title="Sports",Setanta Sports Ukraine
-http://95.67.12.179:9002
-#EXTINF:-1 group-title="Sports",Eleven Sports Network
-http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1812
-#EXTINF:-1 group-title="Sports",Santana
-http://95.67.12.179:9003
-#EXTINF:-1 group-title="Sports",Santana
-http://95.67.12.179:9006
-#EXTINF:-1 group-title="Sports",K-Sport 2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 group-title="Sports",K-Sport 3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 group-title="Sports",K-Sport 4
-http://93.157.62.180/KSport4/index.m3u8
-#EXTINF:-1 group-title="Sports",SONY TEN ① ʜᴅ
-https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_ten1_norvegicus/playlist.m3u8
-#EXTINF:-1 group-title="Sports",SONY TEN ② ʜᴅ
-https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_ten2_norvegicus/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Sony Six
-https://x1.broiptv.com/play/godzillazila7@gmail.com/66488244/phIAh02i/norvegicus/sony_six_norvegicus/playlist.m3u8
-#EXTINF:-1 group-title="Sports",beIN SPORTS English 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-#EXTINF:-1 group-title="Sports",beIN SPORTS English 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-#EXTINF:-1 group-title="Sports",beIN SPORTS English 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1 group-title="Sports",Math 1HD
-http://193.33.88.172/football1_hd/index.m3u8
-#EXTINF:-1 group-title="Sports",Math 2HD
-http://193.33.88.172/football2_hd/index.m3u8
-#EXTINF:-1 group-title="Sports",Math 3HD
-http://193.33.88.172/football3_hd/index.m3u8
-#EXTINF:-1 group-title="Sports",T Sports
+#EXTINF:-1,T Sports
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#EXTINF:-1 group-title="Sports",T Sports HD (4)
+#EXTINF:-1,T Sports HD (4)
 http://103.70.140.27:8080/hls/tsports.m3u8?token=thenayeemparvez
-#EXTINF:-1 group-title="Sports",GAZI
-http://103.161.2.142/hls/Gazi-TV.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Eleven Sports 2
+#EXTINF:-1,Geo Super
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MATCH SPORT RUSSIA
+https://185-107-80-245.livesports24.online/ooomatch.m3u8
+#EXTINF:-1,MATCH 2 SPORT RUSSIA
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,Math 1HD
+http://193.33.88.172/football1_hd/index.m3u8
+#EXTINF:-1,Math 2HD
+http://193.33.88.172/football2_hd/index.m3u8
+#EXTINF:-1,Math 3HD
+http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1,🇦🇪️ Bein Sports Premium 1ᴴᴰ
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1,🇦🇪️ Bein Sports Premium 2ᴴᴰ
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1,🇦🇪️ Bein Sports Premium 3ᴴᴰ
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1,beIN SPORTS English 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
+#EXTINF:-1,beIN SPORTS English 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#EXTINF:-1,beIN SPORTS English 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#EXTINF:-1,Eleven Sports 2
 http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Eleven Sports 3
+#EXTINF:-1,Eleven Sports 3
 http://95.211.250.54:80/ELEVEN_EXTRA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Eleven Sports 4
+#EXTINF:-1,Eleven Sports 4
 http://95.211.250.54:80/ELEVEN4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT HD
+#EXTINF:-1,CANAL+ SPORT HD
 http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT 2 HD
+#EXTINF:-1,CANAL+ SPORT 2 HD
 http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CANAL+ SPORT 3 HD
+#EXTINF:-1,CANAL+ SPORT 3 HD
 http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Astro SuperSport
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang299&password=penang299&stream=6708
+#EXTINF:-1,Astro SuperSport 2
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6710
+#EXTINF:-1,Astro SuperSport 3
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6711
+#EXTINF:-1,Astro SuperSport 4
+http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6712
