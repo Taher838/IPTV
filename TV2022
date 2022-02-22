@@ -1,83 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1,T Sports
+
+#EXTINF:-1 group-title="Bein",beIN 1 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15563
+#EXTINF:-1 group-title="Bein",BEIN 1 PREMIUM HD
+http://maxq.live:800/22123/111/492
+#EXTINF:-1 group-title="Bein",BEIN 1 PREMIUM HD
+http://maxq.live:800/555/111/492
+#EXTINF:-1 group-title="Bein",beIN 2 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15562
+#EXTINF:-1 group-title="Bein",BEIN 2 PREMIUM HD
+http://maxq.live:800/22123/111/474
+#EXTINF:-1 group-title="Bein",BEIN 2 PREMIUM HD
+http://maxq.live:800/555/111/474
+#EXTINF:-1 group-title="Bein",beIN 3 PREMIUM HD
+http://stariptv.org:8080/wael2021/123456/15561
+#EXTINF:-1 group-title="Bein",BEIN 3 PREMIUM HD
+http://maxq.live:800/22123/111/475
+#EXTINF:-1 group-title="Bein",BEIN 3 PREMIUM HD
+http://maxq.live:800/555/111/475
+#EXTINF:-1 group-title="Bein",BeIN PREMIUM 1
+http://maxq.live:800/555/111/605
+#EXTINF:-1 group-title="Bein",BeIN PREMIUM 2
+http://maxq.live:800/555/111/606
+#EXTINF:-1 group-title="Bein",BeIN PREMIUM 3
+http://maxq.live:800/555/111/607
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 1 HD
+http://maxq.live:800/22123/111/476
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 1 HD
+http://maxq.live:800/555/111/476
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 2 HD
+http://maxq.live:800/22123/111/477
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 2 HD
+http://maxq.live:800/555/111/477
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 3 HD
+http://maxq.live:800/22123/111/478
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 3 HD
+http://maxq.live:800/555/111/478
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 4 HD
+http://maxq.live:800/22123/111/479
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 4 HD
+http://maxq.live:800/555/111/479
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 5 HD
+http://maxq.live:800/22123/111/480
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 5 HD
+http://maxq.live:800/555/111/480
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 6 HD
+http://maxq.live:800/555/111/481
+#EXTINF:-1 group-title="Bein",BEIN SPORTS 7 HD
+http://maxq.live:800/555/111/482
+
+#EXTINF:-1 group-title="Sports",T Sports
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#EXTINF:-1,T Sports HD (4)
-http://103.70.140.27:8080/hls/tsports.m3u8?token=thenayeemparvez
-#EXTINF:-1,Geo Super
+#EXTINF:-1 group-title="Sports",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A Sports
+#EXTINF:-1 group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MATCH SPORT RUSSIA
-https://185-107-80-245.livesports24.online/ooomatch.m3u8
-#EXTINF:-1,MATCH 2 SPORT RUSSIA
-https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1,Math 1HD
-http://193.33.88.172/football1_hd/index.m3u8
-#EXTINF:-1,Math 2HD
-http://193.33.88.172/football2_hd/index.m3u8
-#EXTINF:-1,Math 3HD
-http://193.33.88.172/football3_hd/index.m3u8
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 1ᴴᴰ
+#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 1ᴴᴰ
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 2ᴴᴰ
+#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 2ᴴᴰ
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 3ᴴᴰ
+#EXTINF:-1 group-title="Sports",🇦🇪️ Bein Sports Premium 3ᴴᴰ
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-#EXTINF:-1,beIN SPORTS English 1
+#EXTINF:-1 group-title="Sports",beIN SPORTS English 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-#EXTINF:-1,beIN SPORTS English 2
+#EXTINF:-1 group-title="Sports",beIN SPORTS English 2
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
-#EXTINF:-1,beIN SPORTS English 3
+#EXTINF:-1 group-title="Sports",beIN SPORTS English 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1,beIN Sport Premium 03 (1080P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 03 (1080P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31496
-#EXTINF:-1,beIN Sport Premium 02 (1080P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 02 (1080P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31497
-#EXTINF:-1,beIN Sport Premium 03 (720P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 03 (720P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31527
-#EXTINF:-1,beIN Sport Premium 02 (720P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 02 (720P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31528
-#EXTINF:-1,beIN Sport Premium 01 (720P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 01 (720P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31529
-#EXTINF:-1,beIN Sport Premium 02 (480P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 02 (480P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31547
-#EXTINF:-1,beIN Sport Premium 01 (480P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 01 (480P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31548
-#EXTINF:-1,beIN Sport Premium 03 (360P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 03 (360P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31591
-#EXTINF:-1,beIN Sport Premium 02 (360P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 02 (360P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31592
-#EXTINF:-1,beIN Sport Premium 01 (360P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 01 (360P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31593
-#EXTINF:-1,beIN Sport Premium 03 (240P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 03 (240P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31601
-#EXTINF:-1,beIN Sport Premium 02 (240P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 02 (240P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31602
-#EXTINF:-1,beIN Sport Premium 01 (240P)
+#EXTINF:-1 group-title="Sports",beIN Sport Premium 01 (240P)
 http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31603
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/m3u8/hls_m3u8_Bein-Prem-1-HEVC.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
-http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/m3u8/hls_m3u8_Bein-Prem-2-HEVC.m3u8
-
-#EXTINF:-1,BEIN SPORTS 1 PREMIUM
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 2 PREMIUM
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 2 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,BEIN SPORTS 3 PREMIUM
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3 PREMIUM
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 1ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 2ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1,🇦🇪️ Bein Sports Premium 3ᴴᴰ
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="Sports",Match! Football 1
+http://185.140.187.67:8085/udp/238.2.17.4:1234
+#EXTINF:-1 group-title="Sports",Match! Football 2
+http://185.140.187.67:8085/udp/238.2.17.15:1234
+#EXTINF:-1 group-title="Sports",Match! Football 3
+http://185.140.187.67:8085/udp/238.2.17.73:1234
