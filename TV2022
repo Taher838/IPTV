@@ -43,3 +43,9 @@ http://194.67.196.19:80/hls/113.m3u8
 http://194.67.196.19:80/hls/114.m3u8
 #EXTINF:-1,lage 1
 http://194.67.196.19:80/hls/120.m3u8
+#EXTINF:-1,Football 1 HD
+http://c3h5cjkd.russtv.net/iptv/H2G4V43LHWYBC9/222/index.m3u8
+#EXTINF:-1,Football 2 HD
+http://c3h5cjkd.russtv.net/iptv/H2G4V43LHWYBC9/211/index.m3u8
+#EXTINF:-1,Football 3 HD
+http://c3h5cjkd.russtv.net/iptv/H2G4V43LHWYBC9/206/index.m3u8
