@@ -1,7 +1,10 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="BD CHANNEL",Btv World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="BD CHANNEL",Ekattor-tv
+http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD CHANNEL",Nagorik-tv
+http://15.1.5.22:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",JOMUNA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",CHANNEL 24
@@ -71,16 +74,30 @@ https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
 #EXTINF:-1 group-title="INDIA BANGLA",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
+#EXTINF:-1 group-title="INDIA BANGLA",Star jalsha
+http://15.1.5.22:8082/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA BANGLA",zee bangla
+http://15.1.5.22:8082/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA BANGLA",colors bangla cinema
+http://15.1.5.22:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA BANGLA",zee bangla cinema
+http://15.1.5.22:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA BANGLA",jalsha movies
+http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 group-title="HINDI",SonyTV HD
+http://15.1.5.22:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",SONY SAB HD
 http://208.86.19.13:81/7022.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",& TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",STAR BHARAT
 http://208.86.19.13:81/7211.stream/index.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES",Sony Max
+http://15.1.5.22:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",ZEE Cinema HD*
 https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",&PICTURESHD
@@ -109,8 +126,7 @@ https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
 https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
 
 
@@ -128,6 +144,26 @@ https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
 #EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 6
 https://dl.dropboxusercontent.com/s/y0i23viv9jdj1fy/live6.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",Star Select 1HD
+http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",Star Select 2HD
+http://15.1.5.22:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
+http://15.1.5.22:8082/en3-34/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
+http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",STAR-SPORTS-2
+http://15.1.5.22:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",sony-ten 1
+http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",sony-ten 2
+http://15.1.5.22:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",sony-ten 3
+http://15.1.5.22:8082/ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",sony-six-hd
+http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Bein Sport English 1 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.m3u8
@@ -222,7 +258,10 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 #EXTINF:-1 group-title="ENGLISH MOVIES",MOVIES GROUP Eng 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
-
+#EXTINF:-1 group-title="ENGLISH MOVIES",Sonypix hd
+http://15.1.5.22:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
@@ -284,7 +323,96 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="OTHER MOVIES",Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
-
+#EXTINF:-1 group-title="DOUYU MOVIES",Horror & Fantacy
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="DOUYU MOVIES",IMDB HITS
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="DOUYU MOVIES",blockbusters ok
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="DOUYU MOVIES",Bei Ye Cinema 1 english ok
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="DOUYU MOVIES",Bei Ye Cinema english 2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="DOUYU MOVIES",Beiye MAX Hall
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="DOUYU MOVIES",Marvel Movies 1
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="DOUYU MOVIES",Horror Movie
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1 group-title="DOUYU MOVIES",Milk bug horror movie
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="DOUYU MOVIES",English Yuge Movie
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 group-title="DOUYU MOVIES",Hogg Videos ok
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="DOUYU MOVIES",Cola Movie
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="DOUYU MOVIES",Betta Fish Movie 2
+http://epg.112114.xyz/douyu/3637726
+#EXTINF:-1 group-title="DOUYU MOVIES",The Mutant Movie ok
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="DOUYU MOVIES",Action Movie ok
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1 group-title="DOUYU MOVIES",60 frames Movies ok
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="DOUYU MOVIES",Goddess Gold Movie ok
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="DOUYU MOVIES",Andy Lau Movie 1
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 group-title="DOUYU MOVIES",Andy Lau Movie 2 ok
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="DOUYU MOVIES",Weekend Cinema
+http://epg.112114.xyz/douyu/3637765
+#EXTINF:-1 group-title="DOUYU MOVIES",Special Cinema
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 1
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 2
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 3
+http://epg.112114.xyz/douyu/315457
+#EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Cartoon
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 group-title="DOUYU MOVIES",Domestic films
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1 group-title="DOUYU MOVIES",Chinese Series
+http://epg.112114.xyz/douyu/7305938
+#EXTINF:-1 group-title="DOUYU MOVIES",small U movie Eng
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1 group-title="DOUYU MOVIES",Translated video Eng
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie Eng
+http://epg.112114.xyz/douyu/9292499
+#EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie Eng
+http://epg.112114.xyz/douyu/508118
+#EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 2
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 group-title="DOUYU MOVIES",Lin Zhengying Movie 2
+http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1 group-title="DOUYU MOVIES",Hanamaki Movie
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 group-title="DOUYU MOVIES",Haven Cinemas
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="DOUYU MOVIES",comedy movie
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 group-title="DOUYU MOVIES",GoT
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie 14
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie 16
+http://epg.112114.xyz/douyu/4549169
+#EXTINF:-1 group-title="DOUYU MOVIES",Douyu Diyp Movies 1
+http://diyp.112114.xyz/douyu/434971
+#EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal Diyp Movies 2
+http://diyp.112114.xyz/douyu/74374
+#EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 1
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1 group-title="DOUYU MOVIES",Horror Classics ok
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="DOUYU MOVIES",Food
+http://epg.112114.xyz/douyu/8144937
 
 #EXTINF:-1 group-title="ENTERTAIMENT",WOMAN
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
