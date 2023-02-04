@@ -50,11 +50,18 @@ https://happykids-vizio.amagi.tv/playlist.m3u8
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",The LEGO Channel
 https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId%3D2%26feedId%3D1120-v56%26auth-token%3D1213111%26version%3Dsv7.0%26deviceId%3DSDF543%26deviceFwVer%3D4.99%3Fads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26coppa%3D1
+
+
+
 #EXTINF:-1 group-title="INDIA BANGLA",Sony ATT
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
+#EXTINF:-1 group-title="INDIA BANGLA",Zee bangla
+http://102.222.232.18:9981/stream/channelid/633358552?ticket=650EBB054B7A482ED7B000F8FC9AD16C7E1271F2&profile=matroska
 #EXTINF:-1 group-title="INDIA BANGLA",Star Jalsha
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12979
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
+
+
+
 #EXTINF:-1 group-title="INDIA BANGLA",colors bangla
 http://102.222.232.18:9981/stream/channelid/1890795641?ticket=164467976C7B470DF3781F5C8735EF925FB84D74&profile=matroska
 #EXTINF:-1 group-title="INDIA BANGLA",Sananda TV
@@ -64,13 +71,16 @@ https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
 #EXTINF:-1 group-title="INDIA BANGLA",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
+
+
+
+
 #EXTINF:-1 group-title="HINDI",SONY SAB HD
 http://208.86.19.13:81/7022.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",& TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",STAR BHARAT
 http://208.86.19.13:81/7211.stream/index.m3u8
-
 #EXTINF:-1 group-title="HINDI MOVIES",ZEE Cinema HD*
 https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",&PICTURESHD
@@ -97,6 +107,12 @@ https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+
 
 
 
@@ -112,18 +128,30 @@ https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
 https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
 #EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 6
 https://dl.dropboxusercontent.com/s/y0i23viv9jdj1fy/live6.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport 1 English
+
+#EXTINF:-1 group-title="SPORTS",Bein Sport English 1 
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport 2 English
+#EXTINF:-1 group-title="SPORTS",Bein Sport English 2
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport 3 English
+#EXTINF:-1 group-title="SPORTS",Bein Sport English 3
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548629.m3u8
-#EXTINF:-1 group-title="SPORTS",Persiana Sports
-http://51.210.199.32/hls/stream.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
+#EXTINF:-1 group-title="SPORTS",Citavision Spots 2HD
+http://213.7.193.54:4000/play/a005
+
+#EXTINF:-1 group-title="SPORTS",Persiana Sports
+http://51.210.199.32/hls/stream.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Match footbal
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Match!_Country HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Viasat_Sport_HD+
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",True vision 1
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 group-title="SPORTS",True vision 2
@@ -140,8 +168,14 @@ http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/694236.ts
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
 #EXTINF:-1 group-title="SPORTS",SUPERSPORT SERIE A
 http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678024.ts
+
 #EXTINF:-1 group-title="SPORTS",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="SPORTS",RTV SPORT 🇸🇲
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORTS",astrosupersport 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115615&extension=ts&play_token
 #EXTINF:-1 group-title="SPORTS",Astrosupersport2
@@ -174,10 +208,7 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 
-#EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
-https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",MOVIES GROUP Eng 26
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 #EXTINF:-1 group-title="ENGLISH MOVIES",MOVIES GROUP Eng 27
@@ -190,8 +221,8 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 #EXTINF:-1 group-title="ENGLISH MOVIES",MOVIES GROUP Eng 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
-#EXTINF:-1 group-title="ENGLISH MOVIES",Sony Pix
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
@@ -208,20 +239,12 @@ http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",PERSIANA CINEMA
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",AVA Family
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5491
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox Action Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
-#EXTINF:-1 group-title="ENGLISH MOVIES",MBC 2 4K
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
-#EXTINF:-1 group-title="ENGLISH MOVIES",MBC MAX 4K
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
-#EXTINF:-1 group-title="ENGLISH MOVIES",Mix Hollywood
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
-#EXTINF:-1 group-title="ENGLISH MOVIES",MBC Action 4K
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",FX
 http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Hi-YAH!
@@ -234,6 +257,10 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
+
+
+
+
 #EXTINF:-1 group-title="OTHER MOVIES",KOREAN MOVIES
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel%3D618%26ads.wurl_name%3DNewMovies%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
 #EXTINF:-1 group-title="OTHER MOVIES",NEW KOREAN MOVIES
@@ -256,6 +283,9 @@ http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="OTHER MOVIES",Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+
+
+
 #EXTINF:-1 group-title="ENTERTAIMENT",WOMAN
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 group-title="ENTERTAIMENT",Failarmy fun
@@ -274,34 +304,53 @@ https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel%3D675%26ads.wurl_name%3DTinyHouseNation%26ads.coppa%3D0%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 #EXTINF:-1 group-title="ENTERTAIMENT",PLANET EARTH
 https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
 #EXTINF:-1 group-title="MUSIC",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="MUSIC",9x Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="MUSIC",9x Jalwa
-https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
+
+
+
 #EXTINF:-1 group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1 group-title="MUSIC",9XM
 https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
+
 #EXTINF:-1 group-title="MUSIC",MUSIC INDIA
 https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
+
 #EXTINF:-1 group-title="MUSIC",Pitaara
 https://livetv-channels.b-cdn.net/8014/chunklist0.m3u8
+
 #EXTINF:-1 group-title="MUSIC",Showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC",E24
+https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
+
+#EXTINF:-1 group-title="MUSIC",9X JALWA
+https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
+
 #EXTINF:-1 group-title="MUSIC",ilove music
 https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
+
 #EXTINF:-1 group-title="MUSIC",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC",Kadak Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSIC",Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MUSIC",Retro tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",AL JAZEERA
@@ -324,3 +373,150 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="ISLAM",Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+
+#EXTINF:-1 group-title="KUCHINI",Star Jalsha
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12979
+#EXTINF:-1 group-title="KUCHINI",Zee Bangla
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/145632
+
+#EXTINF:-1 group-title="KUCHINI",UTV Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272573
+#EXTINF:-1 group-title="KUCHINI",UTV Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/284584
+
+#EXTINF:-1 group-title="KUCHINI",Star KUCHINI 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3630
+#EXTINF:-1 group-title="KUCHINI",Star KUCHINI 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
+#EXTINF:-1 group-title="KUCHINI",Star KUCHINI 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
+#EXTINF:-1 group-title="KUCHINI",Star KUCHINI Select 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
+#EXTINF:-1 group-title="KUCHINI",Star KUCHINI Select 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16619
+
+#EXTINF:-1 group-title="KUCHINI",Sony Ten 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
+#EXTINF:-1 group-title="KUCHINI",Sony Ten 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16621
+#EXTINF:-1 group-title="KUCHINI",Sony Ten 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/56191
+
+
+#EXTINF:-1 group-title="KUCHINI",beIN KUCHINI English 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/110
+#EXTINF:-1 group-title="KUCHINI",beIN KUCHINI English 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/111
+#EXTINF:-1 group-title="KUCHINI",beIN KUCHINI English 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267769
+
+
+#EXTINF:-1 group-title="KUCHINI",Match
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/75641
+#EXTINF:-1 group-title="KUCHINI",Match Arena
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55801
+#EXTINF:-1 group-title="KUCHINI",Match Futbol 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55800
+#EXTINF:-1 group-title="KUCHINI",Match Futbol 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/55802
+#EXTINF:-1 group-title="KUCHINI",Match Premier
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/60499
+#EXTINF:-1 group-title="KUCHINI",Match Strana
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/148347
+#EXTINF:-1 group-title="KUCHINI",Match! Futbol 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12812
+
+
+
+#EXTINF:-1 group-title="KUCHINI",HBO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
+#EXTINF:-1 group-title="KUCHINI",HBO Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
+#EXTINF:-1 group-title="KUCHINI",STAR Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11511
+#EXTINF:-1 group-title="KUCHINI",beIN Box Office 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/225322
+#EXTINF:-1 group-title="KUCHINI",beIN Drama 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2835
+#EXTINF:-1 group-title="KUCHINI",beIN Movies Action 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1270
+#EXTINF:-1 group-title="KUCHINI",beIN Movies Premiere 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267063
+#EXTINF:-1 group-title="KUCHINI",Sony Pix
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49539
+#EXTINF:-1 group-title="KUCHINI",AVA Family
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5491
+#EXTINF:-1 group-title="KUCHINI",MBC 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1247
+#EXTINF:-1 group-title="KUCHINI",MBC Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1244
+#EXTINF:-1 group-title="KUCHINI",MBC Max
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1240
+
+
+
+#EXTINF:-1 group-title="KUCHINI",Sky Flix Box Office 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283263
+#EXTINF:-1 group-title="KUCHINI",Sky Flix Box Office 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283267
+#EXTINF:-1 group-title="KUCHINI",Sky Flix Box Office 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283268
+#EXTINF:-1 group-title="KUCHINI",Sky Flix Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283266
+
+
+#EXTINF:-1 group-title="KUCHINI",Sky Select 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2139
+
+#EXTINF:-1 group-title="NROA",MBC2 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
+#EXTINF:-1 group-title="NROA",MBC MAX HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
+#EXTINF:-1 group-title="NROA",Mix Hollywood
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
+#EXTINF:-1 group-title="NROA",MBC Action 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
+#EXTINF:-1 group-title="NROA",ONE HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
+#EXTINF:-1 group-title="NROA",Movies HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
+
+
+#EXTINF:-1 group-title="FOOTBALL",USA Network
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
+#EXTINF:-1 group-title="FOOTBALL",Universo Sports
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3696.ts
+#EXTINF:-1 group-title="FOOTBALL",eleven 1
+http://ip.local-hd.xyz:12500/live/XICO69TROCAS_ALL/gEYzSJjPaFTX/4574.ts
+#EXTINF:-1 group-title="FOOTBALL",eleven 2
+http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
+#EXTINF:-1 group-title="FOOTBALL",star sport select 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
+#EXTINF:-1 group-title="FOOTBALL",sky sports main
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255102&extension=ts&play_token=RYW29jFJNG
+#EXTINF:-1 group-title="FOOTBALL",sky sports pl
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255098&extension=ts&play_token=UoJMs6L9Dv
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 3 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
+#EXTINF:-1 group-title="FOOTBALL",Sport Tv 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+#EXTINF:-1 group-title="FOOTBALL",Sport Tv 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
+#EXTINF:-1 group-title="FOOTBALL",True Premier Football 1 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+#EXTINF:-1 group-title="FOOTBALL",True Premier Football 2 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+#EXTINF:-1 group-title="FOOTBALL",group-title="FOOTBALL",bt 1 (obs)
+http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+#EXTINF:-1 group-title="FOOTBALL",BT Sport 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
+#EXTINF:-1 group-title="FOOTBALL",BT Sport 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
+#EXTINF:-1 group-title="FOOTBALL",BT Sport 3 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
+#EXTINF:-1 group-title="FOOTBALL",BT Sport 4 Espn (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
