@@ -39,6 +39,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",NTV BD
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+
+#EXTINF:-1 group-title="BD CHANNEL",Matri Bhumi HD
+http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 group-title="KIDS",GUBBARE KIDS
@@ -59,21 +64,29 @@ https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="INDIA BANGLA",Sony ATT
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
+
+
 #EXTINF:-1 group-title="INDIA BANGLA",Sananda TV
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",Sangeet Bangla
 https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-1 group-title="INDIA BANGLA",Star jalsha
 http://15.1.5.22:8082/jalsha/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",zee bangla
 http://15.1.5.22:8082/zee-bangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",colors bangla cinema
 http://15.1.5.22:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",zee bangla cinema
 http://15.1.5.22:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA BANGLA",jalsha movies
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 
@@ -81,10 +94,13 @@ http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="HINDI",SonyTV HD
 http://15.1.5.22:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="HINDI",SONY SAB HD
 http://208.86.19.13:81/7022.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI",& TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI",STAR BHARAT
 http://208.86.19.13:81/7211.stream/index.m3u8
 
@@ -123,81 +139,95 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 1
-https://dl.dropboxusercontent.com/s/rj6h9l6dr6v1kvi/live1.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 2
-https://dl.dropboxusercontent.com/s/4j0ln9xjtun3igs/live2.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 3
-https://dl.dropboxusercontent.com/s/mn92oz9mcll7gku/live3.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 4
-https://dl.dropboxusercontent.com/s/2ul7k8mlv4u1qx4/live4.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 5
-https://dl.dropboxusercontent.com/s/44d8lgqm39vgrpd/live5.m3u8
-#EXTINF:-1 group-title="SPORTS",LIVE FOOTBALL 6
-https://dl.dropboxusercontent.com/s/y0i23viv9jdj1fy/live6.m3u8
-
+#EXTINF:-1 group-title="SPORTS",On Sports+ L1
+https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",On Sports+ L2
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Star Select 1HD
 http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Star Select 2HD
+http://15.1.5.22:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Urosports hd
 http://15.1.5.22:8082/select2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
 http://15.1.5.22:8082/en3-34/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
 http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",STAR-SPORTS-2
-http://15.1.5.22:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",sony-ten 1
 http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",sony-ten 2
 http://15.1.5.22:8082/sony-ten2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",sony-ten 3
 http://15.1.5.22:8082/ten3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS",sony-six-hd
 http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Bein Sport English 1 
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport English 2
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.m3u8
-#EXTINF:-1 group-title="SPORTS",Bein Sport English 3
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548629.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
+
 #EXTINF:-1 group-title="SPORTS",Citavision Spots 2HD
 http://213.7.193.54:4000/play/a005
 
-#EXTINF:-1 group-title="SPORTS",Persiana Sports
-http://51.210.199.32/hls/stream.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH HD
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH HD
+http://bl.uma.media/live/126836/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Match footbal
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS",Match! FOOTBALL 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH FOOTBALL 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH FOOTBALL 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",Match! ARENA HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",MATCH PREMIER HD
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Match!_Country HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",True vision 1
+#EXTINF:-1 group-title="SPORTS",True vision 1 THI
 http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 group-title="SPORTS",True vision 2
+
+#EXTINF:-1 group-title="SPORTS",True vision 2 YHI
 http://4digital.ddns.net:11224/ts/0
-#EXTINF:-1 group-title="SPORTS",MAT4_1
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORTS",Setanta Sports 1
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+
 #EXTINF:-1 group-title="SPORTS",Setanta Sports 2
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 group-title="SPORTS",SUPERSPORT PREMIER
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/694236.ts
-#EXTINF:-1 group-title="SPORTS",SUPERSPORT LA LIGA
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/683001.ts
-#EXTINF:-1 group-title="SPORTS",SUPERSPORT SERIE A
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/678024.ts
+
 
 #EXTINF:-1 group-title="SPORTS",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
@@ -247,11 +277,17 @@ http://15.1.5.22:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",BOX HITS
+https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",BOX MOVIE
 https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
@@ -289,8 +325,8 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Dark Matter TV Movies
 https://dmtv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",HITS
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 
 
@@ -446,8 +482,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="MUSIC",9x Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 
-
-
 #EXTINF:-1 group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
@@ -481,10 +515,68 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MUSIC",THT Music HD
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",THT Music SD
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_sdhigh.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MUSIC",Retro tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",1MUS
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",DJT
+https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",DSTV (614p)
+http://46.249.95.140:8081/hls/data.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",IBox Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",RED MUSIC
+http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",TNT Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",v2 beat
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Hip Hop (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Latino (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",Vevo Pop Europe (1080p)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",VH1 (1080p)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MUSIC",xite music
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
@@ -496,8 +588,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="WORLD NEWS",ABP Ananda
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 #EXTINF:-1 group-title="WORLD NEWS",Zee 24 Ghanta
@@ -616,43 +707,138 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
 #EXTINF:-1 group-title="NROA",Movies HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
 
-#EXTINF:-1 group-title="FOOTBALL",On Sports+
-https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
+
 #EXTINF:-1 group-title="FOOTBALL",USA Network
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
+
 #EXTINF:-1 group-title="FOOTBALL",Universo Sports
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3696.ts
-#EXTINF:-1 group-title="FOOTBALL",eleven 1
-http://ip.local-hd.xyz:12500/live/XICO69TROCAS_ALL/gEYzSJjPaFTX/4574.ts
-#EXTINF:-1 group-title="FOOTBALL",eleven 2
-http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
-#EXTINF:-1 group-title="FOOTBALL",star sport select 1
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
-#EXTINF:-1 group-title="FOOTBALL",sky sports main
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255102&extension=ts&play_token=RYW29jFJNG
-#EXTINF:-1 group-title="FOOTBALL",sky sports pl
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255098&extension=ts&play_token=UoJMs6L9Dv
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 1 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 2 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 3 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
-#EXTINF:-1 group-title="FOOTBALL",Sport Tv 1 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
-#EXTINF:-1 group-title="FOOTBALL",Sport Tv 2 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
-#EXTINF:-1 group-title="FOOTBALL",True Premier Football 1 (tvt)
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
-#EXTINF:-1 group-title="FOOTBALL",True Premier Football 2 (tvt)
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
-#EXTINF:-1 group-title="FOOTBALL",group-title="FOOTBALL",bt 1 (obs)
-http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+
+
+#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 1 
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.m3u8
+
+#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 2
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.m3u8
+
+#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 3
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548629.m3u8
+
+
 #EXTINF:-1 group-title="FOOTBALL",BT Sport 1 (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
+
 #EXTINF:-1 group-title="FOOTBALL",BT Sport 2 (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
+
 #EXTINF:-1 group-title="FOOTBALL",BT Sport 3 (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
+
 #EXTINF:-1 group-title="FOOTBALL",BT Sport 4 Espn (scale)
 http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 3 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Sport Tv 1 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Sport Tv 2 (scale)
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
+
+#EXTINF:-1 group-title="FOOTBALL",eleven 2
+http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
+
+#EXTINF:-1 group-title="FOOTBALL",star sport select 1
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
+
+#EXTINF:-1 group-title="FOOTBALL",sky sports main
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255102&extension=ts&play_token=RYW29jFJNG
+
+#EXTINF:-1 group-title="FOOTBALL",sky sports pl
+http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255098&extension=ts&play_token=UoJMs6L9Dv
+
+#EXTINF:-1 group-title="FOOTBALL",True Premier Football 1 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+
+#EXTINF:-1 group-title="FOOTBALL",True Premier Football 2 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+
+#EXTINF:-1 group-title="FOOTBALL",bt 1 (obs)
+http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 1
+https://tr.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 2
+https://tr.cett.my.id/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 3
+https://tr.cett.my.id/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 4
+https://tr.cett.my.id/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 5
+https://tr.cett.my.id/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 1
+https://svn.cibai.my.id/hls/channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 2
+https://svn.cibai.my.id/hls/channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 3
+https://svn.cibai.my.id/hls/channel3/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 4
+https://svn.cibai.my.id/hls/channel4/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 1
+https://tr.cett.my.id/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 2
+https://tr.cett.my.id/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 3
+https://tr.cett.my.id/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 4
+https://tr.cett.my.id/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 5
+https://tr.cett.my.id/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",truesports 6
+https://tr.cett.my.id/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Truesports 7
+https://tr.cett.my.id/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",TH:beIN Sports 3 TH
+https://tr.cett.my.id/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",beIN Sports 1 TH
+https://tr.cett.my.id/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",Golf Channel
+https://tr.cett.my.id/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",NBA TV
+https://tr.cett.my.id/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",SPOTV TH
+https://tr.cett.my.id/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",SPOTV 2 TH
+https://tr.cett.my.id/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUE FOOTBALL",True Tennis
+https://tr.cett.my.id/02_TennisHD_720p/chunklist.m3u8
