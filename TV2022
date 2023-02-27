@@ -37,6 +37,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",NTV BD
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
@@ -44,8 +45,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS",Duronto TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+
 #EXTINF:-1 group-title="KIDS",GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="KIDS",Shemaroo Bangla
@@ -106,12 +106,13 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 
 #EXTINF:-1 group-title="HINDI MOVIES",Sony Max
 http://15.1.5.22:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",ZEE Cinema HD*
-https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES",&PICTURESHD
-http://208.86.19.13:81/7055.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES",&PICTURESHD
+http://208.86.19.13:81/7055.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",SONY MAX 2
@@ -135,15 +136,30 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 1HD
+http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295378
 
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 2HD
+http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295381
+
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 3HD
+http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295385
+
+#EXTINF:-1 group-title="SPORTS",BT SPORTS 4HD
+http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295389
+
+#EXTINF:-1 group-title="SPORTS",SKY SPORTS NEWS
+http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295354.ts
 
 
 
 #EXTINF:-1 group-title="SPORTS",On Sports+ L1
 https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
  
-#EXTINF:-1 group-title="SPORTS",On Sports+ L2
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS",ON FOOTBALL
+https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 group-title="SPORTS",Star Select 1HD
 http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
@@ -253,16 +269,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",EDGE Sport
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=158534&extension=ts&play_token=ROnBagWRHx
-#EXTINF:-1 group-title="SPORTS",ON FOOTBALL
-https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 group-title="SPORTS",SCTV17 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 group-title="SPORTS",SCTV22 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 group-title="SPORTS",BTV5 -SPORTS
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 group-title="SPORTS",SCTV15 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+
 
 
 
@@ -285,9 +293,6 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH MOVIES",BOX HITS
-https://api.vthanhtivi.pw/v2/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",BOX MOVIE
 https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
@@ -338,20 +343,25 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 group-title="OTHER MOVIES",MOVIES Forgein
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 group-title="OTHER MOVIES",New KOREAN ID
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN MOVIES
 http://210.210.155.35/dr9445/h/h21/01.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",CCM
 http://210.210.155.35/qwr9ew/s/s31/01.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",Celestial Movies HD
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",CHC Action
 http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 group-title="OTHER MOVIES",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
+
 #EXTINF:-1 group-title="OTHER MOVIES",Thrill
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
@@ -361,13 +371,13 @@ http://epg.112114.xyz/douyu/4505431
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 group-title="DOUYU MOVIES",blockbusters ok
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 group-title="DOUYU MOVIES",Bei Ye Cinema 1 english ok
+#EXTINF:-1 group-title="DOUYU MOVIES",IMAX Cinema HALL 1
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="DOUYU MOVIES",Bei Ye Cinema english 2
+#EXTINF:-1 group-title="DOUYU MOVIES",IMAX Cinema HALL 2
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 group-title="DOUYU MOVIES",Beiye MAX Hall
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="DOUYU MOVIES",Marvel Movies 1
+#EXTINF:-1 group-title="DOUYU MOVIES",Marvel Movies 
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror Movie
 http://epg.112114.xyz/douyu/310926
@@ -459,20 +469,25 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
 #EXTINF:-1 group-title="ENTERTAIMENT",WOMAN
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
 #EXTINF:-1 group-title="ENTERTAIMENT",Failarmy fun
 https://failarmy-linear.sinclair.wurl.com/manifest/3000.m3u8
+
 #EXTINF:-1 group-title="ENTERTAIMENT",Epic
 https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+
 #EXTINF:-1 group-title="ENTERTAIMENT",So Yummy!
 https://firstmedia-xumo.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="ENTERTAIMENT",History
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
 #EXTINF:-1 group-title="ENTERTAIMENT",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAIMENT",Hungry
 https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel%3D140%26ads.wurl_name%3DHungry%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+
 #EXTINF:-1 group-title="ENTERTAIMENT",Tiny House Nation
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel%3D675%26ads.wurl_name%3DTinyHouseNation%26ads.coppa%3D0%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+
 #EXTINF:-1 group-title="ENTERTAIMENT",PLANET EARTH
 https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
@@ -708,61 +723,24 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
 
 
-#EXTINF:-1 group-title="FOOTBALL",USA Network
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3694.ts
+
+#EXTINF:-1 group-title="FOOTBALL",USA Network (ttv)
+http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
+
+#EXTINF:-1 group-title="FOOTBALL",USA Network (MAINS)
+http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
 
 #EXTINF:-1 group-title="FOOTBALL",Universo Sports
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/3696.ts
+http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
 
+#EXTINF:-1 group-title="FOOTBALL",USA Network (ttv)
+http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 
-#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 1 
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.m3u8
-
-#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 2
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548628.m3u8
-
-#EXTINF:-1 group-title="FOOTBALL",Bein Sport English 3
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548629.m3u8
-
-
-#EXTINF:-1 group-title="FOOTBALL",BT Sport 1 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2337.ts
-
-#EXTINF:-1 group-title="FOOTBALL",BT Sport 2 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2336.ts
-
-#EXTINF:-1 group-title="FOOTBALL",BT Sport 3 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2335.ts
-
-#EXTINF:-1 group-title="FOOTBALL",BT Sport 4 Espn (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2334.ts
-
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 1 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
-
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 2 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
-
-#EXTINF:-1 group-title="FOOTBALL",Eleven Sport 3 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
-
-#EXTINF:-1 group-title="FOOTBALL",Sport Tv 1 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
-
-#EXTINF:-1 group-title="FOOTBALL",Sport Tv 2 (scale)
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
+#EXTINF:-1 group-title="FOOTBALL",Universo (ttv)
+http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 
 #EXTINF:-1 group-title="FOOTBALL",eleven 2
 http://185.191.124.105:25461/live/Jackweed/KfjtxuMnwP/15959.ts
-
-#EXTINF:-1 group-title="FOOTBALL",star sport select 1
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
-
-#EXTINF:-1 group-title="FOOTBALL",sky sports main
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255102&extension=ts&play_token=RYW29jFJNG
-
-#EXTINF:-1 group-title="FOOTBALL",sky sports pl
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=255098&extension=ts&play_token=UoJMs6L9Dv
 
 #EXTINF:-1 group-title="FOOTBALL",True Premier Football 1 (tvt)
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
@@ -772,7 +750,6 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension
 
 #EXTINF:-1 group-title="FOOTBALL",bt 1 (obs)
 http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
-
 
 #EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 1
 https://tr.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
@@ -788,18 +765,6 @@ https://tr.cett.my.id/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRUE FOOTBALL",Premier Football 5
 https://tr.cett.my.id/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 1
-https://svn.cibai.my.id/hls/channel1/playlist.m3u8
-
-#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 2
-https://svn.cibai.my.id/hls/channel2/playlist.m3u8
-
-#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 3
-https://svn.cibai.my.id/hls/channel3/playlist.m3u8
-
-#EXTINF:-1 group-title="TRUE FOOTBALL",EPL 4
-https://svn.cibai.my.id/hls/channel4/playlist.m3u8
 
 #EXTINF:-1 group-title="TRUE FOOTBALL",TrueSports 1
 https://tr.cett.my.id/02_2sporthd1_720p/chunklist.m3u8
