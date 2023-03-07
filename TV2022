@@ -113,28 +113,51 @@ http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",&PICTURESHD
 http://208.86.19.13:81/7055.stream/index.m3u8
 
+
+#EXTINF:-1 group-title="HINDI MOVIES",RASI HINDI HD
+http://singamcloud.in/rasinetwork/rasihindi/playlist.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",SONY MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",B4U KADAK
 https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",Dhinchaak 2
 https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",Goldmines Movies
 https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",Goldmines Movies
 https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES",Goldmines Movies
+https://tinyurl.com/Goldmines-livetvwithshuvo-m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",Cinema Tv
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",MH One Dil Se
 https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
+
 #EXTINF:-1 group-title="HINDI MOVIES",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 
+
+
+#EXTINF:-1 group-title="SPORTS",BD LIVE SPORTS
+http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BT SPORTS 1HD
 http://triptospain.dyndns.tv:8080/4wgK33coio/3pbjDoOW7Z/295378
@@ -153,13 +176,30 @@ http://triptospain.dyndns.tv:8080/live/4wgK33coio/3pbjDoOW7Z/295354.ts
 
 
 
-#EXTINF:-1 group-title="SPORTS",On Sports+ L1
-https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
- 
 
+
+
+
+#EXTINF:-1 group-title="SPORTS",BTV5 SPORTS
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="SPORTS",SCTV14 SPORTS
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS",SCTV15 SPORTS
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="SPORTS",SCTV17 SPORTS
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="SPORTS",SCTV22 SPORTS
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 group-title="SPORTS",ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="SPORTS",On Sports+ L1
+https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab6/vtvcab6@high.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Star Select 1HD
 http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
@@ -188,13 +228,11 @@ http://15.1.5.22:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",sony-six-hd
 http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 group-title="SPORTS",Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 
 #EXTINF:-1 group-title="SPORTS",Citavision Spots 2HD
 http://213.7.193.54:4000/play/a005
-
 
 #EXTINF:-1 group-title="SPORTS",MATCH HD
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -232,14 +270,11 @@ http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 group-title="SPORTS",True vision 2 YHI
 http://4digital.ddns.net:11224/ts/0
 
-
-
 #EXTINF:-1 group-title="SPORTS",Setanta Sports 1
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Setanta Sports 2
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-
 
 #EXTINF:-1 group-title="SPORTS",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -251,25 +286,33 @@ http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",astrosupersport 1
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115615&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",Astrosupersport2
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115616&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",Astrosupersport3
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115617&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",Astrosupersport4
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115618&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",FREE sports(UK)
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=117769&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",Premier sports 1(UK)
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11364&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",Premier sports 2(UK)
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=39095&extension=ts&play_token
+
 #EXTINF:-1 group-title="SPORTS",J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",J Sports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
+
 #EXTINF:-1 group-title="SPORTS",EDGE Sport
 http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=158534&extension=ts&play_token=ROnBagWRHx
-
 
 
 
@@ -288,8 +331,14 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO HITS
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
@@ -331,11 +380,17 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Dark Matter TV Movies
 https://dmtv-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",FilmRise Action
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid%3DFilmriseAction%26ads.csid%3Dsamsungtvplus_us_filmriseaction_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-5%26ads._fw_content_genre%3Dmovies%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dpg-13%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999520%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",FilmRise Free Movies
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid%3DFilmRiseFreeMovies%26ads.csid%3Dsamsungtvplus_us_filmrisefreemovies_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-5%26ads._fw_content_genre%3Dmovies%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dtv-14%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999525%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",AMC
+https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel%3D844%26ads.wurl_name%3DTWDUniverseTV14%26ads.coppa%3D0%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
-
-
-
 
 #EXTINF:-1 group-title="OTHER MOVIES",KOREAN MOVIES
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel%3D618%26ads.wurl_name%3DNewMovies%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
@@ -425,10 +480,12 @@ http://epg.112114.xyz/douyu/7305938
 http://epg.112114.xyz/douyu/96577
 #EXTINF:-1 group-title="DOUYU MOVIES",Translated video Eng
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie Eng
+#EXTINF:-1 group-title="DOUYU MOVIES",Bond Movie Eng
 http://epg.112114.xyz/douyu/9292499
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie Eng
 http://epg.112114.xyz/douyu/508118
+#EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 1
+http://epg.112114.xyz/douyu/122402
 #EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 2
 http://epg.112114.xyz/douyu/85894
 #EXTINF:-1 group-title="DOUYU MOVIES",Lin Zhengying Movie 2
@@ -447,12 +504,31 @@ http://epg.112114.xyz/douyu/4549169
 http://diyp.112114.xyz/douyu/434971
 #EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal Diyp Movies 2
 http://diyp.112114.xyz/douyu/74374
-#EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 1
-http://epg.112114.xyz/douyu/122402
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror Classics ok
 http://epg.112114.xyz/douyu/1165374
 #EXTINF:-1 group-title="DOUYU MOVIES",Food
 http://epg.112114.xyz/douyu/8144937
+
+
+#EXTINF:-1 group-title="DOUYU MOVIES",New Year's film
+http://jiandjh.51vip.biz:35455/huya/11601986
+#EXTINF:-1 group-title="DOUYU MOVIES",Gangster movies
+http://jiandjh.51vip.biz:35455/huya/11342419
+#EXTINF:-1 group-title="DOUYU MOVIES",Cops
+http://jiandjh.51vip.biz:35455/huya/11352886
+#EXTINF:-1 group-title="DOUYU MOVIES",Little pavilion chief
+http://jiandjh.51vip.biz:35455/douyu/5802446
+#EXTINF:-1 group-title="DOUYU MOVIES",Watch with Liz
+http://epg.112114.xyz/douyu/7254536
+#EXTINF:-1 group-title="DOUYU MOVIES",Little pavilion chief
+http://epg.112114.xyz/douyu/5802446
+#EXTINF:-1 group-title="DOUYU MOVIES",Shaw Cinema
+http://epg.112114.xyz/douyu/4246519
+#EXTINF:-1 group-title="DOUYU MOVIES",Thousand Classics
+http://epg.112114.xyz/douyu/7882691
+#EXTINF:-1 group-title="DOUYU MOVIES",Ghost Movie Horror Thriller
+http://epg.112114.xyz/douyu/2935323
 
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 26
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
@@ -733,9 +809,6 @@ http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
 #EXTINF:-1 group-title="FOOTBALL",Universo Sports
 http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
 
-#EXTINF:-1 group-title="FOOTBALL",USA Network (ttv)
-http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
-
 #EXTINF:-1 group-title="FOOTBALL",Universo (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 
@@ -807,3 +880,4 @@ https://tr.cett.my.id/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="TRUE FOOTBALL",True Tennis
 https://tr.cett.my.id/02_TennisHD_720p/chunklist.m3u8
+
