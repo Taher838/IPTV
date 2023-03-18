@@ -1,42 +1,64 @@
 #EXTM3U
 #EXTINF:-1 group-title="BD CHANNEL",Btv World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",Ekattor-tv
 http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",Nagorik-tv
 http://15.1.5.22:8082/nagorik-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",JOMUNA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",CHANNEL 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",NEWS 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",DBC
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",SOMOY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",ATN NEWS
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",BANGA VISION
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",ATN BANGLA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",CHANNAL I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",My TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",BOISHAKHI
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="BD CHANNEL",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF:-1 group-title="BD CHANNEL",Deepto
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD CHANNEL",NTV BD
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
@@ -45,17 +67,24 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 group-title="BD CHANNEL",Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
+#EXTINF:-1 group-title="KIDS",NICK BANGLA
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281135&extension=ts&play_token=t9lsD7UjLa
 
 #EXTINF:-1 group-title="KIDS",GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
 #EXTINF:-1 group-title="KIDS",Shemaroo Bangla
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",HappyKidsJunior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",HappyKids
 https://happykids-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",Baby Shark HD
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS",The LEGO Channel
 https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId%3D2%26feedId%3D1120-v56%26auth-token%3D1213111%26version%3Dsv7.0%26deviceId%3DSDF543%26deviceFwVer%3D4.99%3Fads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26coppa%3D1
 
@@ -69,6 +98,15 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA BANGLA",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+
+#EXTINF:-1 group-title="INDIA BANGLA",sangeet bangla
+https://livetv-channels.b-cdn.net/8020/chunklist0.m3u8
+
+#EXTINF:-1 group-title="INDIA BANGLA",Dhoom Bangla
+https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
+
+#EXTINF:-1 group-title="INDIA BANGLA",Akash 8
+https://livetv-channels.b-cdn.net/8008/chunklist0.m3u8
 
 #EXTINF:-1 group-title="INDIA BANGLA",Star jalsha
 http://15.1.5.22:8082/jalsha/tracks-v1a1/mono.m3u8
@@ -84,6 +122,7 @@ http://15.1.5.22:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIA BANGLA",jalsha movies
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -108,6 +147,10 @@ http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",&PICTURESHD
 http://208.86.19.13:81/7055.stream/index.m3u8
 
+
+#EXTINF:-1 group-title="HINDI",ARY DEGUTAL
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=118535&extension=ts&play_token=nAggBNBiXy
+
 #EXTINF:-1 group-title="HINDI",RASI HINDI HD
 http://singamcloud.in/rasinetwork/rasihindi/playlist.m3u8
 
@@ -123,11 +166,27 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="HINDI",STAR GOLD SELECT
 http://208.86.19.13:81/7099.stream/index.m3u8
 
+#EXTINF:-1 group-title="HINDI",B4U MOVIES
+http://42.200.67.163:8090/play/a0nb
+
+#EXTINF:-1 group-title="HINDI",DHAMAKA MOVIES
+http://42.200.67.163:8090/play/a0pv
+
+#EXTINF:-1 group-title="HINDI",SAHARA ONE
+http://42.200.67.163:8090/play/a0qi
+
+#EXTINF:-1 group-title="HINDI",FIRANGI
+http://42.200.67.163:8090/play/a0qr
+
 #EXTINF:-1 group-title="HINDI",ABZY COOL
 https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:-1 group-title="HINDI",Zing
+http://42.200.67.163:8090/play/a0pd
+
 
 
 #EXTINF:-1 group-title="SPORTS",T SPORTS HD
@@ -141,6 +200,7 @@ http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Star Select 2HD
 http://15.1.5.22:8082/select2/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="SPORTS",sony-ten 1
@@ -321,6 +381,9 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox Movies
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
@@ -369,6 +432,15 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 group-title="OTHER MOVIES",CHC Action
 http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Action Movie
+http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Home Cinema
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC HD Movies
+http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+
 #EXTINF:-1 group-title="OTHER MOVIES",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
@@ -377,136 +449,201 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror & Fantacy
 http://epg.112114.xyz/douyu/4505431
+
 #EXTINF:-1 group-title="DOUYU MOVIES",IMDB HITS
 http://epg.112114.xyz/douyu/8770422
+
 #EXTINF:-1 group-title="DOUYU MOVIES",blockbusters ok
 http://epg.112114.xyz/douyu/2793084
+
 #EXTINF:-1 group-title="DOUYU MOVIES",IMAX Cinema HALL 1
 http://epg.112114.xyz/douyu/252802
+
 #EXTINF:-1 group-title="DOUYU MOVIES",IMAX Cinema HALL 2
 http://epg.112114.xyz/douyu/36337
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Beiye MAX Hall
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="DOUYU MOVIES",Marvel Movies 
+
+#EXTINF:-1 group-title="DOUYU MOVIES",Marvel Movies
 http://epg.112114.xyz/douyu/6140589
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror Movie
 http://epg.112114.xyz/douyu/310926
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Milk bug horror movie
 http://epg.112114.xyz/douyu/263824
+
 #EXTINF:-1 group-title="DOUYU MOVIES",English Yuge Movie
 http://epg.112114.xyz/douyu/413573
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Hogg Videos ok
 http://epg.112114.xyz/douyu/8814650
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Cola Movie
 http://epg.112114.xyz/douyu/20415
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Fish Movie 2
 http://epg.112114.xyz/douyu/3637726
+
 #EXTINF:-1 group-title="DOUYU MOVIES",The Mutant Movie ok
 http://epg.112114.xyz/douyu/9651304
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Action Movie ok
 http://epg.112114.xyz/douyu/1504768
+
 #EXTINF:-1 group-title="DOUYU MOVIES",60 frames Movies ok
 http://epg.112114.xyz/douyu/323876
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Goddess Gold Movie ok
 http://epg.112114.xyz/douyu/747764
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Andy Lau Movie 1
 http://epg.112114.xyz/douyu/2516864
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Andy Lau Movie 2 ok
 http://epg.112114.xyz/douyu/8985415
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal
 http://epg.112114.xyz/douyu/74374
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Weekend Cinema
 http://epg.112114.xyz/douyu/3637765
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Special Cinema
 http://epg.112114.xyz/douyu/3637778
+
 #EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 1
 http://epg.112114.xyz/douyu/3928
+
 #EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 2
 http://epg.112114.xyz/douyu/434971
+
 #EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Movies 3
 http://epg.112114.xyz/douyu/315457
+
 #EXTINF:-1 group-title="DOUYU MOVIES",​​Chinese Cartoon
 http://epg.112114.xyz/douyu/9650887
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Domestic films
 http://epg.112114.xyz/douyu/5423
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Chinese Series
 http://epg.112114.xyz/douyu/7305938
+
 #EXTINF:-1 group-title="DOUYU MOVIES",small U movie Eng
 http://epg.112114.xyz/douyu/96577
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Translated video Eng
 http://epg.112114.xyz/douyu/2436390
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Bond Movie Eng
 http://epg.112114.xyz/douyu/9292499
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie Eng
 http://epg.112114.xyz/douyu/508118
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 1
 http://epg.112114.xyz/douyu/122402
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Kagura Video 2
 http://epg.112114.xyz/douyu/85894
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Lin Zhengying Movie 2
 http://epg.112114.xyz/douyu/7356023
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Haven Cinemas
 http://epg.112114.xyz/douyu/9826611
+
 #EXTINF:-1 group-title="DOUYU MOVIES",comedy movie
 http://epg.112114.xyz/douyu/9292492
+
 #EXTINF:-1 group-title="DOUYU MOVIES",GoT
 http://epg.112114.xyz/douyu/8945323
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie 14
 http://epg.112114.xyz/douyu/431460
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie 16
 http://epg.112114.xyz/douyu/4549169
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Douyu Diyp Movies 1
 http://diyp.112114.xyz/douyu/434971
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal Diyp Movies 2
 http://diyp.112114.xyz/douyu/74374
 
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror Classics ok
 http://epg.112114.xyz/douyu/1165374
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Food
 http://epg.112114.xyz/douyu/8144937
 
-
 #EXTINF:-1 group-title="DOUYU MOVIES",New Year's film
 http://jiandjh.51vip.biz:35455/huya/11601986
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Gangster movies
 http://jiandjh.51vip.biz:35455/huya/11342419
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Cops
 http://jiandjh.51vip.biz:35455/huya/11352886
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Little pavilion chief
 http://jiandjh.51vip.biz:35455/douyu/5802446
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Watch with Liz
 http://epg.112114.xyz/douyu/7254536
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Little pavilion chief
 http://epg.112114.xyz/douyu/5802446
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Shaw Cinema
 http://epg.112114.xyz/douyu/4246519
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Thousand Classics
 http://epg.112114.xyz/douyu/7882691
+
 #EXTINF:-1 group-title="DOUYU MOVIES",Ghost Movie Horror Thriller
 http://epg.112114.xyz/douyu/2935323
 
+#EXTINF:-1 group-title="DOUYU MOVIES",Star Cinema
+http://epg.112114.xyz/douyu/315131
+
+#EXTINF:-1 group-title="DOUYU MOVIES",Milk bottle science fiction film
+http://epg.112114.xyz/douyu/6655271
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 26
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 27
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 28
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 29
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 31
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
 #EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
 
+#EXTINF:-1 group-title="DOUYU MOVIES",TC Douyu Movie 2
+http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=b0e1c16d7eef780ec1d31c9007869661&token=cpn-androidmpro-0-3637726-a97a3241d761383498b18bd3c985da572a28fd38ee22b3b1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
+#EXTINF:-1 group-title="DOUYU MOVIES",TC ,Douyu Movie 8
+http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+
+#EXTINF:-1 group-title="DOUYU MOVIES",TC ,Douyu Movie 42
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=b441d03c2310a1e3cd6b3dcb48a2f9af&token=cpn-androidmpro-0-85894-a3575d938a4aa3093e01c22a7da85938354a7f4d76d4f5ee&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",James Bond
 http://jiandjh.51vip.biz:35455/huya/21059585
-#EXTINF:-1 group-title="JIANDJH MOVIES",NewY ear's film
-http://jiandjh.51vip.biz:35455/huya/11601986
-#EXTINF:-1 group-title="JIANDJH MOVIES",Gangster movies
-http://jiandjh.51vip.biz:35455/huya/11342419
-#EXTINF:-1 group-title="JIANDJH MOVIES",Cops
-http://jiandjh.51vip.biz:35455/huya/11352886
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Wangshen Movie Hall
 http://jiandjh.51vip.biz:35455/douyu/508118
 #EXTINF:-1 group-title="JIANDJH MOVIES",Costume martial arts
@@ -549,8 +686,6 @@ http://jiandjh.51vip.biz:35455/douyu/96577
 http://jiandjh.51vip.biz:35455/douyu/323876
 #EXTINF:-1 group-title="JIANDJH MOVIES",Watch with Liz
 http://jiandjh.51vip.biz:35455/douyu/7254536
-#EXTINF:-1 group-title="JIANDJH MOVIES",Little pavilion chief
-http://jiandjh.51vip.biz:35455/douyu/5802446
 #EXTINF:-1 group-title="JIANDJH MOVIES",KungFu HongKong Movies
 http://jiandjh.51vip.biz:35455/douyu/3637765
 #EXTINF:-1 group-title="JIANDJH MOVIES",Coke
@@ -573,8 +708,6 @@ http://jiandjh.51vip.biz:35455/douyu/7305938
 http://jiandjh.51vip.biz:35455/douyu/2935323
 #EXTINF:-1 group-title="JIANDJH MOVIES",Vegetable Garden Cake
 http://jiandjh.51vip.biz:35455/douyu/7701735
-
-
 
 
 #EXTINF:-1 group-title="ENTERTAIMENT",WOMAN
@@ -616,14 +749,14 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 group-title="MUSIC",9XM
 https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 
-#EXTINF:-1 group-title="MUSIC",MUSIC INDIA
-https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
-
 #EXTINF:-1 group-title="MUSIC",Pitaara
 https://livetv-channels.b-cdn.net/8014/chunklist0.m3u8
 
 #EXTINF:-1 group-title="MUSIC",Showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC",B4U MUSIC
+http://42.200.67.163:8090/play/a0nc
 
 #EXTINF:-1 group-title="MUSIC",E24
 https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
@@ -632,7 +765,7 @@ https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
 
 #EXTINF:-1 group-title="MUSIC",ilove music
-https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
+https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
 
 #EXTINF:-1 group-title="MUSIC",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -705,17 +838,24 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 
 #EXTINF:-1 group-title="WORLD NEWS",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",NBC
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+
 #EXTINF:-1 group-title="WORLD NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+
+
+
 #EXTINF:-1 group-title="WORLD NEWS",Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
 #EXTINF:-1 group-title="ISLAM",Makkha
@@ -764,3 +904,7 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension
 
 #EXTINF:-1 group-title="FOOTBALL",bt 1 (obs)
 http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+
+#EXTINF:-1 group-title="FOOTBALL",Fox Sports 2
+https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+
