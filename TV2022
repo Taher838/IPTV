@@ -56,16 +56,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BD CHANNEL",Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-
 #EXTINF:-1 group-title="BD CHANNEL",Deepto
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD CHANNEL",NTV BD
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-
-
 #EXTINF:-1 group-title="BD CHANNEL",Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="KIDS",NICK BANGLA
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=281135&extension=ts&play_token=t9lsD7UjLa
@@ -87,6 +86,9 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="KIDS",The LEGO Channel
 https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId%3D2%26feedId%3D1120-v56%26auth-token%3D1213111%26version%3Dsv7.0%26deviceId%3DSDF543%26deviceFwVer%3D4.99%3Fads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D1YNY%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26coppa%3D1
+
+
+
 
 
 
@@ -147,7 +149,6 @@ http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",&PICTURESHD
 http://208.86.19.13:81/7055.stream/index.m3u8
 
-
 #EXTINF:-1 group-title="HINDI",ARY DEGUTAL
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=118535&extension=ts&play_token=nAggBNBiXy
 
@@ -166,31 +167,19 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="HINDI",STAR GOLD SELECT
 http://208.86.19.13:81/7099.stream/index.m3u8
 
-#EXTINF:-1 group-title="HINDI",B4U MOVIES
-http://42.200.67.163:8090/play/a0nb
-
-#EXTINF:-1 group-title="HINDI",DHAMAKA MOVIES
-http://42.200.67.163:8090/play/a0pv
-
-#EXTINF:-1 group-title="HINDI",SAHARA ONE
-http://42.200.67.163:8090/play/a0qi
-
-#EXTINF:-1 group-title="HINDI",FIRANGI
-http://42.200.67.163:8090/play/a0qr
-
 #EXTINF:-1 group-title="HINDI",ABZY COOL
 https://livetv-channels.b-cdn.net/8029/chunklist0.m3u8
 
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
-#EXTINF:-1 group-title="HINDI",Zing
-http://42.200.67.163:8090/play/a0pd
 
 
 
-#EXTINF:-1 group-title="SPORTS",T SPORTS HD
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="SPORTS",BD LIVE SPORTS
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
@@ -200,8 +189,6 @@ http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Star Select 2HD
 http://15.1.5.22:8082/select2/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS",sony-ten 1
 http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8
@@ -214,8 +201,6 @@ http://15.1.5.22:8082/ten3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",sony-six-hd
 http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
 http://15.1.5.22:8082/en3-34/tracks-v1a1/mono.m3u8
@@ -313,9 +298,6 @@ https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1 group-title="SPORTS",TVRI_SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS",RTV SPORT 🇸🇲
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-
 #EXTINF:-1 group-title="SPORTS",J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
 
@@ -338,6 +320,9 @@ http://15.1.5.22:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",FLEX HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
 
@@ -350,11 +335,23 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH MOVIES",BOX HITS
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",BOX MOVIE
 https://vtsstr7.tv24.vn/live/BOX_MOVIE_HD.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",HOLLYWOOD CLASSIC
 https://vtsstr7.tv24.vn/live/Hollywood.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO HD
+http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.flv
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO Home Theater
+http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.flv
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO+
+http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Star1
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
@@ -368,9 +365,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="ENGLISH MOVIES",WOWOW Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
 #EXTINF:-1 group-title="ENGLISH MOVIES",Latus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+
+
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",PERSIANA CINEMA
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
@@ -396,56 +394,16 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Dark Matter TV Movies
 https://dmtv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH MOVIES",FilmRise Action
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid%3DFilmriseAction%26ads.csid%3Dsamsungtvplus_us_filmriseaction_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-5%26ads._fw_content_genre%3Dmovies%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dpg-13%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999520%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 group-title="ENGLISH MOVIES",FilmRise Free Movies
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid%3DFilmRiseFreeMovies%26ads.csid%3Dsamsungtvplus_us_filmrisefreemovies_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_us_privacy%3D1YNY%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB1-5%26ads._fw_content_genre%3Dmovies%26ads._fw_content_language%3Den%26ads._fw_content_rating%3Dtv-14%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D260%26ads.xumo_contentName%3DFilmRise%26ads.xumo_providerId%3D260%26ads.xumo_providerName%3DFilmRise%26ads.xumo_channelId%3D9999525%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
-
-#EXTINF:-1 group-title="ENGLISH MOVIES",AMC
-https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel%3D844%26ads.wurl_name%3DTWDUniverseTV14%26ads.coppa%3D0%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 
-#EXTINF:-1 group-title="OTHER MOVIES",KOREAN MOVIES
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel%3D618%26ads.wurl_name%3DNewMovies%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
 
-#EXTINF:-1 group-title="OTHER MOVIES",NEW KOREAN MOVIES
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 group-title="OTHER MOVIES",MOVIES Forgein
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
 
-#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN MOVIES
-http://210.210.155.35/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN
-http://210.210.155.37/dr9445/h/h20/index.m3u8
 
-#EXTINF:-1 group-title="OTHER MOVIES",CCM
-http://210.210.155.35/qwr9ew/s/s31/01.m3u8
-
-#EXTINF:-1 group-title="OTHER MOVIES",Celestial Movies HD
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-
-#EXTINF:-1 group-title="OTHER MOVIES",CHC Action
-http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 group-title="OTHER MOVIES",CHC Action Movie
-http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-
-#EXTINF:-1 group-title="OTHER MOVIES",CHC Home Cinema
-http://live.cooltv.top/tv/aishang.php?id=chcjtyy
-
-#EXTINF:-1 group-title="OTHER MOVIES",CHC HD Movies
-http://live.cooltv.top/tv/aishang.php?id=chcgqdy
-
-#EXTINF:-1 group-title="OTHER MOVIES",K+
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 group-title="OTHER MOVIES",Thrill
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror & Fantacy
 http://epg.112114.xyz/douyu/4505431
@@ -488,9 +446,6 @@ http://epg.112114.xyz/douyu/3637726
 
 #EXTINF:-1 group-title="DOUYU MOVIES",The Mutant Movie ok
 http://epg.112114.xyz/douyu/9651304
-
-#EXTINF:-1 group-title="DOUYU MOVIES",Action Movie ok
-http://epg.112114.xyz/douyu/1504768
 
 #EXTINF:-1 group-title="DOUYU MOVIES",60 frames Movies ok
 http://epg.112114.xyz/douyu/323876
@@ -567,29 +522,11 @@ http://epg.112114.xyz/douyu/431460
 #EXTINF:-1 group-title="DOUYU MOVIES",Betta Movie 16
 http://epg.112114.xyz/douyu/4549169
 
-#EXTINF:-1 group-title="DOUYU MOVIES",Douyu Diyp Movies 1
-http://diyp.112114.xyz/douyu/434971
-
-#EXTINF:-1 group-title="DOUYU MOVIES",Douyu Orginal Diyp Movies 2
-http://diyp.112114.xyz/douyu/74374
-
 #EXTINF:-1 group-title="DOUYU MOVIES",Horror Classics ok
 http://epg.112114.xyz/douyu/1165374
 
 #EXTINF:-1 group-title="DOUYU MOVIES",Food
 http://epg.112114.xyz/douyu/8144937
-
-#EXTINF:-1 group-title="DOUYU MOVIES",New Year's film
-http://jiandjh.51vip.biz:35455/huya/11601986
-
-#EXTINF:-1 group-title="DOUYU MOVIES",Gangster movies
-http://jiandjh.51vip.biz:35455/huya/11342419
-
-#EXTINF:-1 group-title="DOUYU MOVIES",Cops
-http://jiandjh.51vip.biz:35455/huya/11352886
-
-#EXTINF:-1 group-title="DOUYU MOVIES",Little pavilion chief
-http://jiandjh.51vip.biz:35455/douyu/5802446
 
 #EXTINF:-1 group-title="DOUYU MOVIES",Watch with Liz
 http://epg.112114.xyz/douyu/7254536
@@ -612,103 +549,207 @@ http://epg.112114.xyz/douyu/315131
 #EXTINF:-1 group-title="DOUYU MOVIES",Milk bottle science fiction film
 http://epg.112114.xyz/douyu/6655271
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 26
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 26
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 27
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 27
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 28
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 28
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 29
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 29
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 31
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 31
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 
-#EXTINF:-1 group-title="DOUYU MOVIES",MOVIES GROUP Eng 34
+#EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
+#EXTINF:-1 group-title="DOUYU MOVIES 2",TC Movie 1
+http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=b0e1c16d7eef780ec1d31c9007869661&token=cpn-androidmpro-0-3637726-a97a3241d761383498b18bd3c985da572a28fd38ee22b3b1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
-#EXTINF:-1 group-title="DOUYU MOVIES",TC Douyu Movie 2
-http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=b0e1c16d7eef780ec1d31c9007869661&token=cpn-androidmpro-0-3637726-a97a3241d761383498b18bd3c985da572a28fd38ee22b3b1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-
-#EXTINF:-1 group-title="DOUYU MOVIES",TC ,Douyu Movie 8
+#EXTINF:-1 group-title="DOUYU MOVIES 2",TC Movie 2
 http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=21eac7e8c6f60737a5777695d7e78b65&token=cpn-androidmpro-0-20415-b6774b3b3249db1714f6a26ef1f3033367889a4abcf8fd1f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
-
-#EXTINF:-1 group-title="DOUYU MOVIES",TC ,Douyu Movie 42
+#EXTINF:-1 group-title="DOUYU MOVIES 2",TC Movie 3
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=b441d03c2310a1e3cd6b3dcb48a2f9af&token=cpn-androidmpro-0-85894-a3575d938a4aa3093e01c22a7da85938354a7f4d76d4f5ee&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 
-#EXTINF:-1 group-title="JIANDJH MOVIES",James Bond
+#EXTINF:-1 group-title="DOUYU MOVIES 2",TC Movie 4
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Betta Movie 2
+http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=39995224770bfe4a6bc9ff9eec068ca2&token=cpn-androidmpro-0-3637726-a97a3241d76138340158698d1893a48e5ac84d2ff682e88c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Betta Movie 5
+http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=1d42cd9ba0cdaa444d4a0d095eb68406&token=cpn-androidmpro-0-20415-b6774b3b3249db176ef63f7ee5ad1de008370a0af1df848d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Betta Movie 10
+http://tc-tct.douyucdn2.cn/dyliveflv3a/3637765rrt97QwBF.flv?wsAuth=e1f0db4d58dcd91a96bf2c35dde07927&token=cpn-androidmpro-0-3637765-895385f7e18dfb38d90eb77d82f16713e1fb7c44692f6654&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Jiandjh huya Newyear's film
+http://jiandjh.51vip.biz:35455/huya/11601986
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Jiandjh huya Gangster movies
+http://jiandjh.51vip.biz:35455/huya/11342419
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Jiandjh huya Cops Movies
+http://jiandjh.51vip.biz:35455/huya/11352886
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Jiandjh huya James Bond
 http://jiandjh.51vip.biz:35455/huya/21059585
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Costume martial arts
+http://jiandjh.51vip.biz:35455/huya/25098954
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Diyp Movies 1
+http://diyp.112114.xyz/douyu/434971
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",Diyp Orginal Movies 
+http://diyp.112114.xyz/douyu/74374
+
+
+
+#EXTINF:-1 group-title="JIANDJH MOVIES",Jiandjh Little pavilion chief
+http://jiandjh.51vip.biz:35455/douyu/5802446
 
 #EXTINF:-1 group-title="JIANDJH MOVIES",Wangshen Movie Hall
 http://jiandjh.51vip.biz:35455/douyu/508118
-#EXTINF:-1 group-title="JIANDJH MOVIES",Costume martial arts
-http://jiandjh.51vip.biz:35455/huya/25098954
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Weekend Movies
 http://jiandjh.51vip.biz:35455/douyu/3637726
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Chinese Classics
 http://jiandjh.51vip.biz:35455/douyu/434971
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Eattri chomonas
 http://jiandjh.51vip.biz:35455/douyu/315457
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",KaguraVideo1
 http://jiandjh.51vip.biz:35455/douyu/122402
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Kagura Video2
 http://jiandjh.51vip.biz:35455/douyu/85894
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",BeiYe MAX Hall
 http://jiandjh.51vip.biz:35455/douyu/4332
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Marvel Movies
 http://jiandjh.51vip.biz:35455/douyu/6140589
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Douban High Score
 http://jiandjh.51vip.biz:35455/douyu/8770422
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Goddess Golden Movie
 http://jiandjh.51vip.biz:35455/douyu/747764
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Pei Ye Cinema1
 http://jiandjh.51vip.biz:35455/douyu/252802
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Pei Ye Cinema2
 http://jiandjh.51vip.biz:35455/douyu/36337
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Hogg Video
 http://jiandjh.51vip.biz:35455/douyu/8814650
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Milk Bug Horror Movie
 http://jiandjh.51vip.biz:35455/douyu/263824
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Haven Cinema
 http://jiandjh.51vip.biz:35455/douyu/9826611
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Horror classics
 http://jiandjh.51vip.biz:35455/douyu/1165374
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Mutant movies
 http://jiandjh.51vip.biz:35455/douyu/9651304
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Little UMovie
 http://jiandjh.51vip.biz:35455/douyu/96577
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Xiaoyu 60 frames
 http://jiandjh.51vip.biz:35455/douyu/323876
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Watch with Liz
 http://jiandjh.51vip.biz:35455/douyu/7254536
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",KungFu HongKong Movies
 http://jiandjh.51vip.biz:35455/douyu/3637765
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Coke
 http://jiandjh.51vip.biz:35455/douyu/20415
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Beibei Cinema
 http://jiandjh.51vip.biz:35455/douyu/431460
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Bond Cinema
 http://jiandjh.51vip.biz:35455/douyu/9292499
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Lin Zhengying
 http://jiandjh.51vip.biz:35455/douyu/7356023
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Linlin Filmand Television
 http://jiandjh.51vip.biz:35455/douyu/9652323
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Thousand Classics
 http://jiandjh.51vip.biz:35455/douyu/7882691
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Horror
 http://jiandjh.51vip.biz:35455/douyu/310926
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Peach Blossom Cinema
 http://jiandjh.51vip.biz:35455/douyu/7305938
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Ghost Movie Horror Thriller
 http://jiandjh.51vip.biz:35455/douyu/2935323
+
 #EXTINF:-1 group-title="JIANDJH MOVIES",Vegetable Garden Cake
 http://jiandjh.51vip.biz:35455/douyu/7701735
 
+
+
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN MOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel%3D618%26ads.wurl_name%3DNewMovies%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+
+#EXTINF:-1 group-title="OTHER MOVIES",NEW KOREAN MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 group-title="OTHER MOVIES",MOVIES Forgein
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
+
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN MOVIES
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",KOREAN TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",CCM
+http://210.210.155.35/qwr9ew/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",Celestial Movies HD
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Action
+http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Action Movie
+http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC Home Cinema
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+
+#EXTINF:-1 group-title="OTHER MOVIES",CHC HD Movies
+http://live.cooltv.top/tv/aishang.php?id=chcgqdy
+
+
+
+#EXTINF:-1 group-title="ENTERTAIMENT",PLANET EARTH
+https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 
 #EXTINF:-1 group-title="ENTERTAIMENT",WOMAN
 https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
@@ -734,8 +775,7 @@ https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="ENTERTAIMENT",Tiny House Nation
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel%3D675%26ads.wurl_name%3DTinyHouseNation%26ads.coppa%3D0%26ads.us_privacy%3D1YNY%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="ENTERTAIMENT",PLANET EARTH
-https://vtsstr7.tv24.vn/live/Planet_Earth.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+
 
 #EXTINF:-1 group-title="MUSIC",ATN Music
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -755,8 +795,7 @@ https://livetv-channels.b-cdn.net/8014/chunklist0.m3u8
 #EXTINF:-1 group-title="MUSIC",Showbox
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC",B4U MUSIC
-http://42.200.67.163:8090/play/a0nc
+
 
 #EXTINF:-1 group-title="MUSIC",E24
 https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
@@ -791,8 +830,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1 group-title="ENGLISH MUSIC",1MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 group-title="ENGLISH MUSIC",DJT
-https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+
 
 
 
@@ -811,12 +849,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1 group-title="ENGLISH MUSIC",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
-
-
 #EXTINF:-1 group-title="ENGLISH MUSIC",Rock On
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
 
 #EXTINF:-1 group-title="ENGLISH MUSIC",v2 beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
@@ -836,6 +870,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 group-title="ENGLISH MUSIC",xite music
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
+
+
 #EXTINF:-1 group-title="WORLD NEWS",CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
@@ -854,28 +890,39 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 group-title="WORLD NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
 
-
+#EXTINF:-1 group-title="WORLD NEWS",Zee 24 Ghanta
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_12.m3u8
 
 #EXTINF:-1 group-title="WORLD NEWS",Zee 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_10.m3u8
+
+
+
 #EXTINF:-1 group-title="ISLAM",Makkha
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
 #EXTINF:-1 group-title="ISLAM",Madina
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
 #EXTINF:-1 group-title="ISLAM",Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NROA",MBC2 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
+
 #EXTINF:-1 group-title="NROA",MBC MAX HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
+
 #EXTINF:-1 group-title="NROA",Mix Hollywood
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
+
 #EXTINF:-1 group-title="NROA",MBC Action 4K
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
+
 #EXTINF:-1 group-title="NROA",ONE HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
+
 #EXTINF:-1 group-title="NROA",Movies HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
 
@@ -887,8 +934,7 @@ http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 #EXTINF:-1 group-title="FOOTBALL",USA Network (MAINS)
 http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
 
-#EXTINF:-1 group-title="FOOTBALL",Universo Sports
-http://destiny4k.com:2086/live/YttdBgP0g7/Zek4HZvbSDecog5JKE2U/2684.ts
+
 
 #EXTINF:-1 group-title="FOOTBALL",Universo (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
@@ -907,4 +953,11 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 
 #EXTINF:-1 group-title="FOOTBALL",Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+
+#EXTINF:-1,ERT SPORTS
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+
+#EXTINF:-1,ERT SPORTS 2
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
+
 
