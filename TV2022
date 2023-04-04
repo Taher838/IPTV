@@ -63,6 +63,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
 
+#EXTINF:-1 group-title="BD CHANNEL",Voice Tv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BD CHANNEL",Jago News
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 
 
@@ -178,8 +183,11 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 
 
+#EXTINF:-1 group-title="SPORTS",T Sports
+http://tv.bdrisworld.xyz:8880/live/Bashir78/Bashir@92/13286.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS",Willow HD
+http://15.1.5.14:8082/willow-hd/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BD LIVE SPORTS
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
@@ -190,16 +198,16 @@ http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",Star Select 2HD
 http://15.1.5.22:8082/select2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",sony-ten 1
+#EXTINF:-1 group-title="SPORTS",sony-ten 1 BD
 http://15.1.5.22:8082/ten1-hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",sony-ten 2
+#EXTINF:-1 group-title="SPORTS",sony-ten 2 BD
 http://15.1.5.22:8082/sony-ten2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",sony-ten 3
+#EXTINF:-1 group-title="SPORTS",sony-ten 3 BD
 http://15.1.5.22:8082/ten3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS",sony-six-hd
+#EXTINF:-1 group-title="SPORTS",sony-six-hd BD
 http://15.1.5.22:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS",STAR-SPORTS-1
@@ -309,7 +317,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 
 
 
-
+#EXTINF:-1,4K MOVIES
+http://wabc.ml/sxg.php?id=emdy4k_8000
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
 https://hls.247box.live/hls/stream.m3u8
@@ -352,6 +361,24 @@ http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.f
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",HBO+
 http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Tring Fantasy
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Tring Super
+https://mfe01.tring.al/delta/106/out/u/890_3.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Tring Classic
+https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Tring Collection
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",Tring 3
+https://mfe01.tring.al/delta/106/out/u/896_3.m3u8
+
+#EXTINF:-1 group-title="ENGLISH MOVIES",TringTring
+https://mfe01.tring.al/delta/106/out/u/898_3.m3u8
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",Star1
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
@@ -566,6 +593,9 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
 
 #EXTINF:-1 group-title="DOUYU MOVIES 2",MOVIES GROUP Eng 34
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+
+#EXTINF:-1 group-title="DOUYU MOVIES 2",TC European blockbusters
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 #EXTINF:-1 group-title="DOUYU MOVIES 2",TC Movie 1
 http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=b0e1c16d7eef780ec1d31c9007869661&token=cpn-androidmpro-0-3637726-a97a3241d761383498b18bd3c985da572a28fd38ee22b3b1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -926,15 +956,17 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
 #EXTINF:-1 group-title="NROA",Movies HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
 
+#EXTINF:-1 group-title="FOOTBALL",SUPER SPORT PREMIER LEAGUE 1
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:-1 group-title="FOOTBALL",TSN 1
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10921&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 group-title="FOOTBALL",USA Network (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/1.ts
 
 #EXTINF:-1 group-title="FOOTBALL",USA Network (MAINS)
 http://mains.vip:2086/live/Jhbxcgoisnm/56756756765722222/242.ts
-
-
 
 #EXTINF:-1 group-title="FOOTBALL",Universo (ttv)
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
@@ -961,3 +993,50 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/maina
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLIV",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLIV",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV",Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLIV",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLIV",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLIV",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV-SabbirIPTV",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
