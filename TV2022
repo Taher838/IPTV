@@ -317,7 +317,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 
 
 
-#EXTINF:-1,4K MOVIES
+#EXTINF:-1 group-title="ENGLISH MOVIES",4K MOVIES
 http://wabc.ml/sxg.php?id=emdy4k_8000
 
 #EXTINF:-1 group-title="ENGLISH MOVIES",24x7 Box
@@ -937,25 +937,6 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="ISLAM",Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
-
-#EXTINF:-1 group-title="NROA",MBC2 HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
-
-#EXTINF:-1 group-title="NROA",MBC MAX HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/201
-
-#EXTINF:-1 group-title="NROA",Mix Hollywood
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
-
-#EXTINF:-1 group-title="NROA",MBC Action 4K
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/204
-
-#EXTINF:-1 group-title="NROA",ONE HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/319
-
-#EXTINF:-1 group-title="NROA",Movies HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/517
-
 #EXTINF:-1 group-title="FOOTBALL",SUPER SPORT PREMIER LEAGUE 1
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
 
@@ -986,10 +967,10 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 #EXTINF:-1 group-title="FOOTBALL",Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
-#EXTINF:-1,ERT SPORTS
+#EXTINF:-1 group-title="FOOTBALL",ERT SPORTS
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
 
-#EXTINF:-1,ERT SPORTS 2
+EXTINF:-1 group-title="FOOTBALL",ERT SPORTS 2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV",SET HD
